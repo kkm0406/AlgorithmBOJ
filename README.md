@@ -1,1 +1,3 @@
-# AlgorithmBOJ
+# 2023 BOJ 알고리즘 스터디
+
+1. 구현
