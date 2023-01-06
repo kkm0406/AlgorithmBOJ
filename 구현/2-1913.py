@@ -30,8 +30,8 @@ for i in range(N // 2):
             nx = initX + dir[3][0]
             ny = initY + dir[3][1]
         start += 1 #이동하면 값 증가
-        arr[nx][ny] = start 
-        initX, initY = nx, ny #현재 이동한 위치 초기화
+        arr[nx][ny] = start #이동한 위치 값 변경
+        initX, initY = nx, ny #현위치 초기화
 
 x, y = 0, 0
 for i in range(len(arr)):
