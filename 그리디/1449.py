@@ -4,7 +4,7 @@ import sys
 n, l = map(int, sys.stdin.readline().split())
 arr = sorted(list(map(int, sys.stdin.readline().split())))
 cnt = 0
-pos = 0  # 테이프 현재 위치
+pos = 0  # 테이프 위치
 
 for i in range(n):
     if arr[i] < pos:
