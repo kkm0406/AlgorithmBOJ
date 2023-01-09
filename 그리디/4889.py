@@ -19,7 +19,7 @@ while True:
                 stack.pop()
         else:  # {만 저장됨
             stack.append(text[i])
-    # {개수의 절반만 }로 바꾸면 됨
+    # { 개수의 절반만 }로 바꾸면 됨
     cnt += len(stack) // 2
     print(f"{num}. {cnt}")
     num += 1
