@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.01.10 BOJ 그리디 S3 N.18310 안테나">
-      <change afterPath="$PROJECT_DIR$/구현/1051.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="yy.mm.dd BOJ 분류 S4 N.번호 제목">
+      <change afterPath="$PROJECT_DIR$/수학/1644.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.1051">
+  <component name="RunManager" selected="Python.1644">
     <configuration name="1051" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15903" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1644" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그리디" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/수학" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그리디/15903.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/수학/1644.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1644" />
         <item itemvalue="Python.1051" />
         <item itemvalue="Python.18310" />
         <item itemvalue="Python.4889" />
         <item itemvalue="Python.11501" />
-        <item itemvalue="Python.15903" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673338213826</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="23.01.10 BOJ 구현 S4 N.1051 숫자 정사각형">
+      <created>1673341470887</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1673341470887</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -312,6 +319,7 @@
     <MESSAGE value="BOJ 분류 S1 N.4889 안정적인 문자열" />
     <MESSAGE value="BOJ 그리디 S1 N.4889 안정적인 문자열" />
     <MESSAGE value="23.01.10 BOJ 그리디 S3 N.18310 안테나" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.01.10 BOJ 그리디 S3 N.18310 안테나" />
+    <MESSAGE value="23.01.10 BOJ 구현 S4 N.1051 숫자 정사각형" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.01.10 BOJ 구현 S4 N.1051 숫자 정사각형" />
   </component>
 </project>
