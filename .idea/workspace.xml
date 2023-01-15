@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.01.15 BOJ 다이나믹 프로그래밍 S2 N.1965 상자넣기">
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.01.15 BOJ 구현 S2 N.5212 지구 온난화">
       <change afterPath="$PROJECT_DIR$/구현/5212.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -387,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673765881506</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="23.01.15 BOJ 구현 S2 N.5212 지구 온난화">
+      <created>1673771993347</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1673771993347</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -402,7 +409,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BOJ 구현 S3 N.1449 수리공 항승" />
     <MESSAGE value="BOJ 구현 S1 N.15903 카드 합체 놀이" />
     <MESSAGE value="BOJ 구현 S1 N.1449 수리공 항승" />
     <MESSAGE value="BOJ 그리디 S1 N.1449 수리공 항승" />
@@ -427,6 +433,7 @@
     <MESSAGE value="23.01.14 BOJ 다이나믹 프로그래밍 S2 N.11055 가장 큰 증가 부분 수열" />
     <MESSAGE value="23.01.14 BOJ 다이나믹 프로그래밍 S1 N.1309 동물원" />
     <MESSAGE value="23.01.15 BOJ 다이나믹 프로그래밍 S2 N.1965 상자넣기" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.01.15 BOJ 다이나믹 프로그래밍 S2 N.1965 상자넣기" />
+    <MESSAGE value="23.01.15 BOJ 구현 S2 N.5212 지구 온난화" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.01.15 BOJ 구현 S2 N.5212 지구 온난화" />
   </component>
 </project>

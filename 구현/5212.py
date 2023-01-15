@@ -43,7 +43,7 @@ for row in range(len(arr)):
                 start_x = min(start_x, col)
                 end_x = max(end_x, col)
 
-for row in range(start_y, end_y + 1):  # 뒤에서부터 출력
+for row in range(start_y, end_y + 1):
     for col in range(start_x, end_x + 1):
         print(arr[row][col], end='')
     print()
