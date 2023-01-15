@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="날짜 BOJ 분류 S1 N.번호 제목">
-      <change afterPath="$PROJECT_DIR$/다이나믹 프로그래밍/1965.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.01.15 BOJ 다이나믹 프로그래밍 S2 N.1965 상자넣기">
+      <change afterPath="$PROJECT_DIR$/구현/5212.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.1965">
+  <component name="RunManager" selected="Python.5212">
     <configuration name="11048" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,27 +73,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다이나믹 프로그래밍/11055.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="11722" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmBOJ" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/다이나믹 프로그래밍" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다이나믹 프로그래밍/11722.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,13 +123,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="5212" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmBOJ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/구현" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/구현/5212.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5212" />
         <item itemvalue="Python.1965" />
         <item itemvalue="Python.1309" />
         <item itemvalue="Python.11055" />
         <item itemvalue="Python.11048" />
-        <item itemvalue="Python.11722" />
       </list>
     </recent_temporary>
   </component>
@@ -380,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673704766931</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="23.01.15 BOJ 다이나믹 프로그래밍 S2 N.1965 상자넣기">
+      <created>1673765881505</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1673765881506</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -395,7 +402,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BOJ 구현 S1 N.16507 어두운 건 무서워" />
     <MESSAGE value="BOJ 구현 S3 N.1449 수리공 항승" />
     <MESSAGE value="BOJ 구현 S1 N.15903 카드 합체 놀이" />
     <MESSAGE value="BOJ 구현 S1 N.1449 수리공 항승" />
@@ -420,6 +426,7 @@
     <MESSAGE value="23.01.13 BOJ 다이나믹 프로그래밍 S2 N.11048 이동하기" />
     <MESSAGE value="23.01.14 BOJ 다이나믹 프로그래밍 S2 N.11055 가장 큰 증가 부분 수열" />
     <MESSAGE value="23.01.14 BOJ 다이나믹 프로그래밍 S1 N.1309 동물원" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.01.14 BOJ 다이나믹 프로그래밍 S1 N.1309 동물원" />
+    <MESSAGE value="23.01.15 BOJ 다이나믹 프로그래밍 S2 N.1965 상자넣기" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.01.15 BOJ 다이나믹 프로그래밍 S2 N.1965 상자넣기" />
   </component>
 </project>
