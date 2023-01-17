@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.01.16 BOJ 구현 S1 N.16926 배열 돌리기 1">
-      <change afterPath="$PROJECT_DIR$/다이나믹 프로그래밍/1495.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.01.17 BOJ 다이나믹 프로그래밍 S1 N.1495 기타리스트">
+      <change afterPath="$PROJECT_DIR$/구현/2615.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.1495">
+  <component name="RunManager" selected="Python.2615">
     <configuration name="1495" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1965" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2615" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/다이나믹 프로그래밍" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/구현" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다이나믹 프로그래밍/1965.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/구현/2615.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2615" />
         <item itemvalue="Python.1495" />
         <item itemvalue="Python.16926" />
         <item itemvalue="Python.15988" />
         <item itemvalue="Python.5212" />
-        <item itemvalue="Python.1965" />
       </list>
     </recent_temporary>
   </component>
@@ -415,7 +415,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673859417050</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="23.01.17 BOJ 다이나믹 프로그래밍 S1 N.1495 기타리스트">
+      <created>1673942483757</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1673942483757</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -430,7 +437,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BOJ 그리디 S1 N.1449 수리공 항승" />
     <MESSAGE value="BOJ 그리디 S1 N.15903 카드 합체 놀이" />
     <MESSAGE value="BOJ 그리디 S3 N.1449 수리공 항승" />
     <MESSAGE value="BOJ 문제 그리디 S2 N.11501 주식" />
@@ -455,6 +461,7 @@
     <MESSAGE value="23.01.15 BOJ 구현 S2 N.5212 지구 온난화" />
     <MESSAGE value="23.01.16 BOJ 다이나믹 프로그래밍 S2 N.15988 1, 2, 3 더하기 3" />
     <MESSAGE value="23.01.16 BOJ 구현 S1 N.16926 배열 돌리기 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.01.16 BOJ 구현 S1 N.16926 배열 돌리기 1" />
+    <MESSAGE value="23.01.17 BOJ 다이나믹 프로그래밍 S1 N.1495 기타리스트" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.01.17 BOJ 다이나믹 프로그래밍 S1 N.1495 기타리스트" />
   </component>
 </project>
