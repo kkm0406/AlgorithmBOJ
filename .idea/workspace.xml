@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.01.17 BOJ 구현 S1 N.2615 오목">
-      <change afterPath="$PROJECT_DIR$/브루트 포스/1065.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.01.17 BOJ 브루트 포스 S4 N.1065 한수">
+      <change afterPath="$PROJECT_DIR$/다이나믹 프로그래밍/16194.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,12 @@
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.1065">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmBOJ\다이나믹 프로그래밍" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.16194">
     <configuration name="1065" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15988" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="16194" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,7 +98,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다이나믹 프로그래밍/15988.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다이나믹 프로그래밍/16194.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.16194" />
         <item itemvalue="Python.1065" />
         <item itemvalue="Python.2615" />
         <item itemvalue="Python.1495" />
         <item itemvalue="Python.16926" />
-        <item itemvalue="Python.15988" />
       </list>
     </recent_temporary>
   </component>
@@ -429,7 +434,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673949433655</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="23.01.17 BOJ 브루트 포스 S4 N.1065 한수">
+      <created>1673950106445</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1673950106445</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -444,7 +456,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BOJ 그리디 S3 N.1449 수리공 항승" />
     <MESSAGE value="BOJ 문제 그리디 S2 N.11501 주식" />
     <MESSAGE value="BOJ 그리디 S2 N.11501 주식" />
     <MESSAGE value="BOJ 분류 S1 N.4889 안정적인 문자열" />
@@ -469,6 +480,7 @@
     <MESSAGE value="23.01.16 BOJ 구현 S1 N.16926 배열 돌리기 1" />
     <MESSAGE value="23.01.17 BOJ 다이나믹 프로그래밍 S1 N.1495 기타리스트" />
     <MESSAGE value="23.01.17 BOJ 구현 S1 N.2615 오목" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.01.17 BOJ 구현 S1 N.2615 오목" />
+    <MESSAGE value="23.01.17 BOJ 브루트 포스 S4 N.1065 한수" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.01.17 BOJ 브루트 포스 S4 N.1065 한수" />
   </component>
 </project>
