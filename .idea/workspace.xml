@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.01.19 BOJ 다이나믹 프로그래밍 S3 N.17626 Four Squares">
-      <change afterPath="$PROJECT_DIR$/그리디/1758.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.01.19 BOJ 그리디 S4 N.1758 알바생 강호">
+      <change afterPath="$PROJECT_DIR$/그리디/1213.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmBOJ\다이나믹 프로그래밍" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1758">
+  <component name="RunManager" selected="Python.1213">
     <configuration name="10974" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,7 +65,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16194" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1213" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/다이나믹 프로그래밍" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그리디" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다이나믹 프로그래밍/16194.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그리디/1213.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1213" />
         <item itemvalue="Python.1758" />
         <item itemvalue="Python.17626" />
         <item itemvalue="Python.10974" />
         <item itemvalue="Python.1911" />
-        <item itemvalue="Python.16194" />
       </list>
     </recent_temporary>
   </component>
@@ -469,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674115282211</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="23.01.19 BOJ 그리디 S4 N.1758 알바생 강호">
+      <created>1674116987126</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1674116987126</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -484,7 +491,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.01.10 BOJ 그리디 S3 N.18310 안테나" />
     <MESSAGE value="23.01.10 BOJ 구현 S4 N.1051 숫자 정사각형" />
     <MESSAGE value="23.01.11 BOJ 수학 G3 N.1644 소수의 연속합" />
     <MESSAGE value="23.01.11 BOJ 구현 S1 N.16918 봄버맨" />
@@ -509,6 +515,7 @@
     <MESSAGE value="23.01.18 BOJ 정렬 S1 N.1911 흙길 보수하기" />
     <MESSAGE value="23.01.18 BOJ 브루트포스 S3 N.10974 모든 순열" />
     <MESSAGE value="23.01.19 BOJ 다이나믹 프로그래밍 S3 N.17626 Four Squares" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.01.19 BOJ 다이나믹 프로그래밍 S3 N.17626 Four Squares" />
+    <MESSAGE value="23.01.19 BOJ 그리디 S4 N.1758 알바생 강호" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.01.19 BOJ 그리디 S4 N.1758 알바생 강호" />
   </component>
 </project>
