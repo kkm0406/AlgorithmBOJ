@@ -4,7 +4,7 @@ import sys
 h, w, x, y = map(int, sys.stdin.readline().split())
 b = [list(map(int, sys.stdin.readline().split())) for i in range(h + x)]
 
-# 두 배열 모두에 포합되는 경우
+# 두 배열 모두에 포함되는 경우
 # b[i][j] - b[i - x][j - y]
 for i in range(x, x + h):
     for j in range(y, w + y):
