@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.01.23 BOJ 그리디 S1 N.11497 통나무 건너뛰기">
-      <change afterPath="$PROJECT_DIR$/그래프/1260.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="그래프 - DFS" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -167,20 +164,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00005" summary="BOJ 구현 S1 N.16507 어두운 건 무서워">
-      <created>1673096184346</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1673096184346</updated>
-    </task>
-    <task id="LOCAL-00006" summary="BOJ 구현 S3 N.1449 수리공 항승">
-      <created>1673174635668</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1673174635668</updated>
     </task>
     <task id="LOCAL-00007" summary="BOJ 구현 S1 N.15903 카드 합체 놀이">
       <created>1673175472199</created>
@@ -511,7 +494,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674479760254</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="그래프 - DFS">
+      <created>1674551893624</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1674551893625</updated>
+    </task>
+    <task id="LOCAL-00055" summary="그래프 - DFS">
+      <created>1674551933189</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1674551933189</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -526,7 +523,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.01.13 BOJ 다이나믹 프로그래밍 G4 N.14852 타일 채우기 3" />
     <MESSAGE value="23.01.13 BOJ 다이나믹 프로그래밍 S2 N.11722 가장 긴 감소하는 부분 수열" />
     <MESSAGE value="23.01.13 BOJ 다이나믹 프로그래밍 S2 N.11048 이동하기" />
     <MESSAGE value="23.01.14 BOJ 다이나믹 프로그래밍 S2 N.11055 가장 큰 증가 부분 수열" />
@@ -551,6 +547,7 @@
     <MESSAGE value="23.01.23 BOJ 그리디 S1 N.1080 행렬" />
     <MESSAGE value="23.01.23 BOJ 브루트 포스 G4 N.9663 N-Queen" />
     <MESSAGE value="23.01.23 BOJ 그리디 S1 N.11497 통나무 건너뛰기" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.01.23 BOJ 그리디 S1 N.11497 통나무 건너뛰기" />
+    <MESSAGE value="그래프 - DFS" />
+    <option name="LAST_COMMIT_MESSAGE" value="그래프 - DFS" />
   </component>
 </project>
