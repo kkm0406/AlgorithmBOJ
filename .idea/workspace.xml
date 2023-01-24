@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.01.23 BOJ 브루트 포스 G4 N.9663 N-Queen">
-      <change afterPath="$PROJECT_DIR$/그리디/11497.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.01.23 BOJ 그리디 S1 N.11497 통나무 건너뛰기">
+      <change afterPath="$PROJECT_DIR$/그래프/1260.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -167,13 +167,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00004" summary="BOJ 구현 S3 N.1783 병든 나이트">
-      <created>1673094828817</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1673094828817</updated>
     </task>
     <task id="LOCAL-00005" summary="BOJ 구현 S1 N.16507 어두운 건 무서워">
       <created>1673096184346</created>
@@ -511,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674476705656</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="23.01.23 BOJ 그리디 S1 N.11497 통나무 건너뛰기">
+      <created>1674479760254</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1674479760254</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -526,7 +526,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.01.13 BOJ 다이나믹 프로그래밍 G4 N.2133 타일 채우기" />
     <MESSAGE value="23.01.13 BOJ 다이나믹 프로그래밍 G4 N.14852 타일 채우기 3" />
     <MESSAGE value="23.01.13 BOJ 다이나믹 프로그래밍 S2 N.11722 가장 긴 감소하는 부분 수열" />
     <MESSAGE value="23.01.13 BOJ 다이나믹 프로그래밍 S2 N.11048 이동하기" />
@@ -551,6 +550,7 @@
     <MESSAGE value="23.01.23 BOJ 브루트 포스 S2 N.1182 부분수열의 합" />
     <MESSAGE value="23.01.23 BOJ 그리디 S1 N.1080 행렬" />
     <MESSAGE value="23.01.23 BOJ 브루트 포스 G4 N.9663 N-Queen" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.01.23 BOJ 브루트 포스 G4 N.9663 N-Queen" />
+    <MESSAGE value="23.01.23 BOJ 그리디 S1 N.11497 통나무 건너뛰기" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.01.23 BOJ 그리디 S1 N.11497 통나무 건너뛰기" />
   </component>
 </project>
