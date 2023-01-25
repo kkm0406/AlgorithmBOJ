@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.01.25 BOJ 그래프 S2 N.4963 섬의 개수">
-      <change afterPath="$PROJECT_DIR$/그래프/11724.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.01.25 BOJ 그래프 S2 N.11724 연결 요소의 개수">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +42,7 @@
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmBOJ\다이나믹 프로그래밍" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.11724">
+  <component name="RunManager" selected="Python.16953">
     <configuration name="11724" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1260" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="16953" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그래프" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그리디" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그래프/1260.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그리디/16953.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.16953" />
         <item itemvalue="Python.11724" />
         <item itemvalue="Python.4963 (1)" />
         <item itemvalue="Python.4963" />
         <item itemvalue="Python.2606" />
-        <item itemvalue="Python.1260" />
       </list>
     </recent_temporary>
   </component>
@@ -167,13 +166,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00011" summary="BOJ 그리디 S3 N.1449 수리공 항승">
-      <created>1673176238753</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1673176238753</updated>
     </task>
     <task id="LOCAL-00012" summary="BOJ 문제 그리디 S2 N.11501 주식">
       <created>1673252195982</created>
@@ -511,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674561927002</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="23.01.25 BOJ 그래프 S2 N.11724 연결 요소의 개수">
+      <created>1674648996811</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1674648996812</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -526,7 +525,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.01.14 BOJ 다이나믹 프로그래밍 S1 N.1309 동물원" />
     <MESSAGE value="23.01.15 BOJ 다이나믹 프로그래밍 S2 N.1965 상자넣기" />
     <MESSAGE value="23.01.15 BOJ 구현 S2 N.5212 지구 온난화" />
     <MESSAGE value="23.01.16 BOJ 다이나믹 프로그래밍 S2 N.15988 1, 2, 3 더하기 3" />
@@ -551,6 +549,7 @@
     <MESSAGE value="그래프 - BFS" />
     <MESSAGE value="23.01.24 BOJ 그래프 S2 N.1260 DFS와 BFS" />
     <MESSAGE value="23.01.24 BOJ 그래프 S3 N.2606 바이러스" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.01.24 BOJ 그래프 S3 N.2606 바이러스" />
+    <MESSAGE value="23.01.25 BOJ 그래프 S2 N.11724 연결 요소의 개수" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.01.25 BOJ 그래프 S2 N.11724 연결 요소의 개수" />
   </component>
 </project>
