@@ -13,7 +13,7 @@ for i in range(m):
 
 cnt = 0
 for i in check:
-    if i in s:
+    if i in s:  # 검사하는 문자열이 집합 S에 포함되어 있으면
         cnt += 1
 
 print(cnt)
