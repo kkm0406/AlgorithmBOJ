@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.02.04 BOJ 문자열 S3 N.14425 문자열 집합">
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.02.05 BOJ 구현 S2 N.1138 한 줄로 서기">
+      <change afterPath="$PROJECT_DIR$/다이나믹 프로그래밍/9655.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +43,7 @@
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmBOJ\다이나믹 프로그래밍" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1138">
+  <component name="RunManager" selected="Python.9655">
     <configuration name="1138" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,27 +107,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1958" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmBOJ" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/다이나믹 프로그래밍" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다이나믹 프로그래밍/1958.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="6603" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,13 +128,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="9655" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmBOJ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/다이나믹 프로그래밍" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다이나믹 프로그래밍/9655.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.9655" />
         <item itemvalue="Python.1138" />
         <item itemvalue="Python.14501" />
         <item itemvalue="Python.14425" />
         <item itemvalue="Python.6603" />
-        <item itemvalue="Python.1958" />
       </list>
     </recent_temporary>
   </component>
@@ -166,13 +167,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00034" summary="23.01.15 BOJ 구현 S2 N.5212 지구 온난화">
-      <created>1673772074540</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1673772074540</updated>
     </task>
     <task id="LOCAL-00035" summary="23.01.16 BOJ 다이나믹 프로그래밍 S2 N.15988 1, 2, 3 더하기 3">
       <created>1673855600528</created>
@@ -510,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675509150329</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="23.02.05 BOJ 구현 S2 N.1138 한 줄로 서기">
+      <created>1675594975782</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1675594975783</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -525,7 +526,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="그래프 - BFS" />
     <MESSAGE value="23.01.24 BOJ 그래프 S2 N.1260 DFS와 BFS" />
     <MESSAGE value="23.01.24 BOJ 그래프 S3 N.2606 바이러스" />
     <MESSAGE value="23.01.25 BOJ 그래프 S2 N.11724 연결 요소의 개수" />
@@ -550,6 +550,7 @@
     <MESSAGE value="23.02.03 BOJ 문자열 S3 N.14425 문자열 집합" />
     <MESSAGE value="23.02.04 BOJ 브루트 포스 S3 N.14501 퇴사" />
     <MESSAGE value="23.02.04 BOJ 문자열 S3 N.14425 문자열 집합" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.02.04 BOJ 문자열 S3 N.14425 문자열 집합" />
+    <MESSAGE value="23.02.05 BOJ 구현 S2 N.1138 한 줄로 서기" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.02.05 BOJ 구현 S2 N.1138 한 줄로 서기" />
   </component>
 </project>
