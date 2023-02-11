@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.02.10 BOJ 다이나믹 프로그래밍 S2 N.15990 1, 2, 3 더하기 5">
-      <change afterPath="$PROJECT_DIR$/구현/1713.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.02.10 BOJ 구현 S1 N.1713 후보 추천하기">
+      <change afterPath="$PROJECT_DIR$/구현/15686.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +43,8 @@
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmBOJ\다이나믹 프로그래밍" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1713">
-    <configuration name="1038" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.15686">
+    <configuration name="15686" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,11 +52,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/브루트 포스" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/구현" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/브루트 포스/1038.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/구현/15686.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.15686" />
         <item itemvalue="Python.1713" />
         <item itemvalue="Python.15990" />
         <item itemvalue="Python.2529" />
         <item itemvalue="Python.1963" />
-        <item itemvalue="Python.1038" />
       </list>
     </recent_temporary>
   </component>
@@ -167,13 +167,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00048" summary="23.01.20 BOJ 다이나믹 프로그래밍 G5 N.2293 동전 1">
-      <created>1674189263803</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1674189263804</updated>
     </task>
     <task id="LOCAL-00049" summary="23.01.21 BOJ 수학 B1 N.1292 쉽게 푸는 문제">
       <created>1674283839664</created>
@@ -511,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676010252142</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="23.02.10 BOJ 구현 S1 N.1713 후보 추천하기">
+      <created>1676014691790</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1676014691790</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -526,7 +526,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.01.29 BOJ 그래프 S1 N.7562 나이트의 이동" />
     <MESSAGE value="23.01.29 BOJ 그리디 G5 N.13164 행복 유치원" />
     <MESSAGE value="23.01.31 BOJ 다이나믹 프로그래밍 B1 N.2748 피보나치 수 2" />
     <MESSAGE value="23.02.01 BOJ 구현 S1 N.13335 트럭" />
@@ -551,6 +550,7 @@
     <MESSAGE value="23.02.09 BOJ 그래프 G4 N.1963 소수 경로" />
     <MESSAGE value="23.02.10 BOJ 백트래킹 S1 N.2529 부등호" />
     <MESSAGE value="23.02.10 BOJ 다이나믹 프로그래밍 S2 N.15990 1, 2, 3 더하기 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.02.10 BOJ 다이나믹 프로그래밍 S2 N.15990 1, 2, 3 더하기 5" />
+    <MESSAGE value="23.02.10 BOJ 구현 S1 N.1713 후보 추천하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.02.10 BOJ 구현 S1 N.1713 후보 추천하기" />
   </component>
 </project>
