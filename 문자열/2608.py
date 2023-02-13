@@ -13,7 +13,7 @@ def get_num(s):
     num = 0
     visited = [False] * l  # 방문 여부 저장
     for i in range(l):
-        if not visited[i]:  # 아직 방문안한 문자이면
+        if not visited[i]:  # 아직 방문안한 문자일 때,
             # 작은 숫자가 큰 숫자 왼쪽에 오는 경우
             if i + 1 < len(s) and s[i:i + 2] in alpha2.keys():
                 visited[i], visited[i + 1] = True, True
