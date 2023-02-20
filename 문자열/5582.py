@@ -1,4 +1,5 @@
 # 공통 부분 문자열 G5
+# pypy 제출
 import sys
 
 input = sys.stdin.readline
