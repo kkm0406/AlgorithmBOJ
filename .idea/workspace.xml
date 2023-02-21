@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.02.20 BOJ 백트래킹 S2 N.2961 도영이가 만든 맛있는 음식">
-      <change afterPath="$PROJECT_DIR$/문자열/5582.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.02.20 BOJ 문자열 G5 N.5582 공통 부분 문자열">
+      <change afterPath="$PROJECT_DIR$/그래프/1743.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmBOJ\다이나믹 프로그래밍" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.5582">
+  <component name="RunManager" selected="Python.1743">
     <configuration name="10819" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2504" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1743" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/구현" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그래프" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/구현/2504.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그래프/1743.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1743" />
         <item itemvalue="Python.5582" />
         <item itemvalue="Python.2961" />
         <item itemvalue="Python.10819" />
         <item itemvalue="Python.9934" />
-        <item itemvalue="Python.2504" />
       </list>
     </recent_temporary>
   </component>
@@ -169,20 +169,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00075" summary="23.02.01 BOJ 다이나믹 프로그래밍 S3 N.9657 돌 게임 3">
-      <created>1675251996128</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1675251996129</updated>
-    </task>
-    <task id="LOCAL-00076" summary="23.02.02 BOJ 그래프 S1 N.1926 그림">
-      <created>1675332665264</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1675332665265</updated>
     </task>
     <task id="LOCAL-00077" summary="23.02.02 BOJ 다이나믹 프로그래밍 G3 N.1958 LCS 3">
       <created>1675335206715</created>
@@ -513,7 +499,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676888090687</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="23.02.20 BOJ 문자열 G5 N.5582 공통 부분 문자열">
+      <created>1676895755584</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1676895755584</updated>
+    </task>
+    <task id="LOCAL-00125" summary="23.02.20 BOJ 문자열 G5 N.5582 공통 부분 문자열">
+      <created>1676895769626</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1676895769626</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -528,7 +528,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.02.10 BOJ 다이나믹 프로그래밍 S2 N.15990 1, 2, 3 더하기 5" />
     <MESSAGE value="23.02.10 BOJ 구현 S1 N.1713 후보 추천하기" />
     <MESSAGE value="23.02.11 BOJ 구현 G5 N.15686 치킨 배달" />
     <MESSAGE value="23.02.11 BOJ 그래프 S1 N.2667 단지번호 붙이기" />
@@ -553,7 +552,8 @@
     <MESSAGE value="23.02.19 BOJ 구현 S1 N.2504 괄호의 값" />
     <MESSAGE value="23.02.19 BOJ 트리 S1 N.9934 완전 이진 트리" />
     <MESSAGE value="23.02.20 BOJ 백트래킹 S2 N.2961 도영이가 만든 맛있는 음식" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.02.20 BOJ 백트래킹 S2 N.2961 도영이가 만든 맛있는 음식" />
+    <MESSAGE value="23.02.20 BOJ 문자열 G5 N.5582 공통 부분 문자열" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.02.20 BOJ 문자열 G5 N.5582 공통 부분 문자열" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
