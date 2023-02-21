@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.02.20 BOJ 문자열 G5 N.5582 공통 부분 문자열">
-      <change afterPath="$PROJECT_DIR$/그래프/1743.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.02.21 BOJ 그래프 S1 N.1743 음식물 피하기">
+      <change afterPath="$PROJECT_DIR$/구현/2636.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmBOJ\다이나믹 프로그래밍" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1743">
+  <component name="RunManager" selected="Python.2636">
     <configuration name="10819" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,6 +80,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그래프/1743.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2636" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmBOJ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/구현" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/구현/2636.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,34 +151,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9934" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmBOJ" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/트리" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/트리/9934.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2636" />
         <item itemvalue="Python.1743" />
         <item itemvalue="Python.5582" />
         <item itemvalue="Python.2961" />
         <item itemvalue="Python.10819" />
-        <item itemvalue="Python.9934" />
       </list>
     </recent_temporary>
   </component>
@@ -169,13 +169,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00077" summary="23.02.02 BOJ 다이나믹 프로그래밍 G3 N.1958 LCS 3">
-      <created>1675335206715</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1675335206715</updated>
     </task>
     <task id="LOCAL-00078" summary="23.02.03 BOJ 문자열 S1 N.2002 추월">
       <created>1675412262886</created>
@@ -513,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676895769626</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="23.02.21 BOJ 그래프 S1 N.1743 음식물 피하기">
+      <created>1676981267543</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1676981267543</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -528,7 +528,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.02.10 BOJ 구현 S1 N.1713 후보 추천하기" />
     <MESSAGE value="23.02.11 BOJ 구현 G5 N.15686 치킨 배달" />
     <MESSAGE value="23.02.11 BOJ 그래프 S1 N.2667 단지번호 붙이기" />
     <MESSAGE value="23.02.12 BOJ 구현 G5 N.14503 로봇 청소기" />
@@ -553,7 +552,8 @@
     <MESSAGE value="23.02.19 BOJ 트리 S1 N.9934 완전 이진 트리" />
     <MESSAGE value="23.02.20 BOJ 백트래킹 S2 N.2961 도영이가 만든 맛있는 음식" />
     <MESSAGE value="23.02.20 BOJ 문자열 G5 N.5582 공통 부분 문자열" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.02.20 BOJ 문자열 G5 N.5582 공통 부분 문자열" />
+    <MESSAGE value="23.02.21 BOJ 그래프 S1 N.1743 음식물 피하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.02.21 BOJ 그래프 S1 N.1743 음식물 피하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
