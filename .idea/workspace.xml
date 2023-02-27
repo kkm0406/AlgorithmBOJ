@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.02.25 BOJ 그래프 S1 N.2583 영역 구하기">
-      <change afterPath="$PROJECT_DIR$/그래프/7576.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.02.27 BOJ 그래프 G5 N.7576 토마토">
+      <change afterPath="$PROJECT_DIR$/트리/1141.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +45,8 @@
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmBOJ\다이나믹 프로그래밍" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.7576">
-    <configuration name="1107" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1141">
+    <configuration name="1141" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,11 +54,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/브루트 포스" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/트리" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/브루트 포스/1107.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/트리/1141.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1141" />
         <item itemvalue="Python.7576" />
         <item itemvalue="Python.2583" />
         <item itemvalue="Python.16234" />
         <item itemvalue="Python.15724" />
-        <item itemvalue="Python.1107" />
       </list>
     </recent_temporary>
   </component>
@@ -169,13 +169,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00087" summary="23.02.06 BOJ 그리디 G4 N.13975 파일 합치기 3">
-      <created>1675682957054</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1675682957054</updated>
     </task>
     <task id="LOCAL-00088" summary="23.02.07 BOJ 그리디 S1 N.1946 신입사원">
       <created>1675757297186</created>
@@ -513,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677498110526</updated>
     </task>
-    <option name="localTasksCounter" value="136" />
+    <task id="LOCAL-00136" summary="23.02.27 BOJ 그래프 G5 N.7576 토마토">
+      <created>1677502422311</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1677502422311</updated>
+    </task>
+    <option name="localTasksCounter" value="137" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -528,7 +528,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.02.15 BOJ 누적합 S1 N.19951 태상이의 훈련소 생활" />
     <MESSAGE value="23.02.15 BOJ 그래프 G5 N.2551 물통" />
     <MESSAGE value="23.02.16 BOJ 그래프 S1 N.11403 경로 찾기" />
     <MESSAGE value="23.02.16 BOJ 브루트 포스 G4 N.17281 ⚾" />
@@ -553,7 +552,8 @@
     <MESSAGE value="23.02.25 BOJ 누적합 S1 N.15724 주지수" />
     <MESSAGE value="23.02.25 BOJ 구현 G5 N.16234 인구 이동" />
     <MESSAGE value="23.02.25 BOJ 그래프 S1 N.2583 영역 구하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.02.25 BOJ 그래프 S1 N.2583 영역 구하기" />
+    <MESSAGE value="23.02.27 BOJ 그래프 G5 N.7576 토마토" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.02.27 BOJ 그래프 G5 N.7576 토마토" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
