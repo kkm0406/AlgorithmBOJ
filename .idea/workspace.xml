@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.03.02 BOJ 그래프 S1 N.5014 스타트링크">
-      <change afterPath="$PROJECT_DIR$/다이나믹 프로그래밍/2688.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.03.02 BOJ 다이나믹 프로그래밍 S1 N.2688 줄어들지 않아">
+      <change afterPath="$PROJECT_DIR$/브루트 포스/2531.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,28 +45,7 @@
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmBOJ\다이나믹 프로그래밍" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2688">
-    <configuration name="1105" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmBOJ" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그리디" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그리디/1105.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.2531">
     <configuration name="15900" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,6 +80,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백트래킹/16198.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2531" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmBOJ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/브루트 포스" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/브루트 포스/2531.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2531" />
         <item itemvalue="Python.2688" />
         <item itemvalue="Python.5014" />
         <item itemvalue="Python.16198" />
         <item itemvalue="Python.15900" />
-        <item itemvalue="Python.1105" />
       </list>
     </recent_temporary>
   </component>
@@ -169,13 +169,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00096" summary="23.02.10 BOJ 다이나믹 프로그래밍 S2 N.15990 1, 2, 3 더하기 5">
-      <created>1676010252142</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1676010252142</updated>
     </task>
     <task id="LOCAL-00097" summary="23.02.10 BOJ 구현 S1 N.1713 후보 추천하기">
       <created>1676014691790</created>
@@ -513,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677735301003</updated>
     </task>
-    <option name="localTasksCounter" value="145" />
+    <task id="LOCAL-00145" summary="23.03.02 BOJ 다이나믹 프로그래밍 S1 N.2688 줄어들지 않아">
+      <created>1677750818477</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1677750818478</updated>
+    </task>
+    <option name="localTasksCounter" value="146" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -528,7 +528,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.02.18 BOJ 다이나믹 프로그래밍 S1 N.1890 점프" />
     <MESSAGE value="23.02.18 BOJ 이분 탐색 S3 N.2512 예산" />
     <MESSAGE value="23.02.19 BOJ 구현 S1 N.2504 괄호의 값" />
     <MESSAGE value="23.02.19 BOJ 트리 S1 N.9934 완전 이진 트리" />
@@ -553,7 +552,8 @@
     <MESSAGE value="23.03.01 BOJ 트리 S1 N.15900 나무 탈출" />
     <MESSAGE value="23.03.01 BOJ 백트래킹 S1 N.16198 에너지 모으기" />
     <MESSAGE value="23.03.02 BOJ 그래프 S1 N.5014 스타트링크" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.03.02 BOJ 그래프 S1 N.5014 스타트링크" />
+    <MESSAGE value="23.03.02 BOJ 다이나믹 프로그래밍 S1 N.2688 줄어들지 않아" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.03.02 BOJ 다이나믹 프로그래밍 S1 N.2688 줄어들지 않아" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
