@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.03.04 BOJ 구현 G5 N.14719 빗물">
-      <change afterPath="$PROJECT_DIR$/그리디/1263.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.03.04 BOJ 그리디 S1 N.1263 시간 관리">
+      <change afterPath="$PROJECT_DIR$/이분 탐색/BinarySearch.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmBOJ\다이나믹 프로그래밍" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1263">
+  <component name="RunManager" selected="Python.BinarySearch">
     <configuration name="1263" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2688" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BinarySearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/다이나믹 프로그래밍" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이분 탐색" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다이나믹 프로그래밍/2688.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이분 탐색/BinarySearch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BinarySearch" />
         <item itemvalue="Python.1263" />
         <item itemvalue="Python.14719" />
         <item itemvalue="Python.17609" />
         <item itemvalue="Python.2531" />
-        <item itemvalue="Python.2688" />
       </list>
     </recent_temporary>
   </component>
@@ -169,13 +169,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00100" summary="23.02.11 BOJ 그래프 S1 N.2667 단지번호 붙이기">
-      <created>1676115985429</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1676115985429</updated>
     </task>
     <task id="LOCAL-00101" summary="23.02.12 BOJ 구현 G5 N.14503 로봇 청소기">
       <created>1676202280764</created>
@@ -513,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677940209697</updated>
     </task>
-    <option name="localTasksCounter" value="149" />
+    <task id="LOCAL-00149" summary="23.03.04 BOJ 그리디 S1 N.1263 시간 관리">
+      <created>1677941383262</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1677941383263</updated>
+    </task>
+    <option name="localTasksCounter" value="150" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -528,7 +528,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.02.20 BOJ 백트래킹 S2 N.2961 도영이가 만든 맛있는 음식" />
     <MESSAGE value="23.02.20 BOJ 문자열 G5 N.5582 공통 부분 문자열" />
     <MESSAGE value="23.02.21 BOJ 그래프 S1 N.1743 음식물 피하기" />
     <MESSAGE value="23.02.22 BOJ 구현 G4 N.2636 치즈" />
@@ -553,7 +552,8 @@
     <MESSAGE value="23.03.03 BOJ 브루트 포스 S1 N.2531 회전 초밥" />
     <MESSAGE value="23.03.03 BOJ 문자열 G5 N.17609 회문" />
     <MESSAGE value="23.03.04 BOJ 구현 G5 N.14719 빗물" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.03.04 BOJ 구현 G5 N.14719 빗물" />
+    <MESSAGE value="23.03.04 BOJ 그리디 S1 N.1263 시간 관리" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.03.04 BOJ 그리디 S1 N.1263 시간 관리" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
