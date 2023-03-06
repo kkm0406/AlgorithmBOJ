@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.03.05 BOJ 이분 탐색 S2 N.1654 랜선 자르기">
-      <change afterPath="$PROJECT_DIR$/트리/20364.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.03.05 BOJ 트리 S1 N.20364 부동산 다툼">
+      <change afterPath="$PROJECT_DIR$/이분 탐색/2343.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,33 +40,13 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmBOJ\이분 탐색" />
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmBOJ\트리" />
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmBOJ\누적합" />
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmBOJ\다이나믹 프로그래밍" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.20364">
-    <configuration name="1263" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmBOJ" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그리디" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그리디/1263.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.2343">
     <configuration name="1654" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,6 +81,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/트리/20364.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2343" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmBOJ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이분 탐색" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이분 탐색/2343.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2343" />
         <item itemvalue="Python.20364" />
         <item itemvalue="Python.1654" />
         <item itemvalue="Python.bisect_library" />
         <item itemvalue="Python.BinarySearch" />
-        <item itemvalue="Python.1263" />
       </list>
     </recent_temporary>
   </component>
@@ -169,13 +170,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00104" summary="23.02.13 BOJ 다이나믹 프로그래밍 S1 N.2302 극장 좌석">
-      <created>1676282932958</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1676282932959</updated>
     </task>
     <task id="LOCAL-00105" summary="23.02.13 BOJ 문자열 S1 N.2608 로마 숫자">
       <created>1676287001013</created>
@@ -513,7 +507,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677995658158</updated>
     </task>
-    <option name="localTasksCounter" value="153" />
+    <task id="LOCAL-00153" summary="23.03.05 BOJ 트리 S1 N.20364 부동산 다툼">
+      <created>1678001273919</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1678001273919</updated>
+    </task>
+    <option name="localTasksCounter" value="154" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -528,7 +529,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.02.22 BOJ 트리 S1 N.14675 단절점과 단절선" />
     <MESSAGE value="23.02.22 BOJ 다이나믹 프로그래밍 G5 N.4811 알약" />
     <MESSAGE value="23.02.24 BOJ 트리 S1 N.15805 트리 나라 관광 가이드" />
     <MESSAGE value="23.02.25 BOJ 그리디 G5 N.1083 소트" />
@@ -553,7 +553,8 @@
     <MESSAGE value="이진 탐색 구현" />
     <MESSAGE value="이진 탐색 라이브러리 - bisect" />
     <MESSAGE value="23.03.05 BOJ 이분 탐색 S2 N.1654 랜선 자르기" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.03.05 BOJ 이분 탐색 S2 N.1654 랜선 자르기" />
+    <MESSAGE value="23.03.05 BOJ 트리 S1 N.20364 부동산 다툼" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.03.05 BOJ 트리 S1 N.20364 부동산 다툼" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
