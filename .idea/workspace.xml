@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.03.20 BOJ 문자열 G5 N.15927 회문은 회문아니야!!">
-      <change afterPath="$PROJECT_DIR$/그래프/1043.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.03.21 BOJ 그래프 G4 N.1043 거짓말">
+      <change afterPath="$PROJECT_DIR$/그래프/1043-2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,13 +169,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00132" summary="23.02.25 BOJ 브루트 포스 G5 N.1107 리모컨">
-      <created>1677260696066</created>
-      <option name="number" value="00132" />
-      <option name="presentableId" value="LOCAL-00132" />
-      <option name="project" value="LOCAL" />
-      <updated>1677260696066</updated>
     </task>
     <task id="LOCAL-00133" summary="23.02.25 BOJ 누적합 S1 N.15724 주지수">
       <created>1677305520886</created>
@@ -514,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679296424257</updated>
     </task>
-    <option name="localTasksCounter" value="181" />
+    <task id="LOCAL-00181" summary="23.03.21 BOJ 그래프 G4 N.1043 거짓말">
+      <created>1679383549671</created>
+      <option name="number" value="00181" />
+      <option name="presentableId" value="LOCAL-00181" />
+      <option name="project" value="LOCAL" />
+      <updated>1679383549671</updated>
+    </task>
+    <option name="localTasksCounter" value="182" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -529,7 +528,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.03.05 BOJ 트리 S1 N.20364 부동산 다툼" />
     <MESSAGE value="23.03.06 BOJ 이분 탐색 S1 N.2343 기타 레슨" />
     <MESSAGE value="23.03.06 BOJ 그래프 S1 N.1697 숨바꼭질" />
     <MESSAGE value="23.03.07 BOJ 다이나믹 프로그래밍 S1 N.2502 떡 먹는 호랑이" />
@@ -554,7 +552,8 @@
     <MESSAGE value="23.03.19 BOJ 이분 탐색 S2 N.15810 풍선 공장" />
     <MESSAGE value="23.03.20 BOJ 브루트 포스 G5 N.2116 주사위 쌓기" />
     <MESSAGE value="23.03.20 BOJ 문자열 G5 N.15927 회문은 회문아니야!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.03.20 BOJ 문자열 G5 N.15927 회문은 회문아니야!!" />
+    <MESSAGE value="23.03.21 BOJ 그래프 G4 N.1043 거짓말" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.03.21 BOJ 그래프 G4 N.1043 거짓말" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
