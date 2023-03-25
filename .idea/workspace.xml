@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="최단 경로 - 다익스트라 알고리즘">
-      <change afterPath="$PROJECT_DIR$/최단 경로/heap.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="heapq 라이브러리 사용">
+      <change afterPath="$PROJECT_DIR$/최단 경로/dijkstra_heap.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -170,13 +170,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00141" summary="23.02.28 BOJ 그리디 S1 N.1105 팔">
-      <created>1677592760497</created>
-      <option name="number" value="00141" />
-      <option name="presentableId" value="LOCAL-00141" />
-      <option name="project" value="LOCAL" />
-      <updated>1677592760497</updated>
     </task>
     <task id="LOCAL-00142" summary="23.03.01 BOJ 트리 S1 N.15900 나무 탈출">
       <created>1677650402992</created>
@@ -514,7 +507,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679748935140</updated>
     </task>
-    <option name="localTasksCounter" value="190" />
+    <task id="LOCAL-00190" summary="heapq 라이브러리 사용">
+      <created>1679749831572</created>
+      <option name="number" value="00190" />
+      <option name="presentableId" value="LOCAL-00190" />
+      <option name="project" value="LOCAL" />
+      <updated>1679749831572</updated>
+    </task>
+    <option name="localTasksCounter" value="191" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -529,7 +529,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.03.09 BOJ 그리디 S1 N.9009 피보나치" />
     <MESSAGE value="23.03.10 BOJ 이분 탐색 G5 N.2022 사다리" />
     <MESSAGE value="23.03.10 BOJ 트리 G5 N.5639 이진 검색 트리" />
     <MESSAGE value="23.03.11 BOJ 구현 G4 N.14502 연구소" />
@@ -554,7 +553,8 @@
     <MESSAGE value="23.03.24 BOJ 누적합 G5 N.20159 동작 그만. 밑장 빼기냐?" />
     <MESSAGE value="23.03.24 BOJ 이분탐색 S1 N.2792 보석 상자" />
     <MESSAGE value="최단 경로 - 다익스트라 알고리즘" />
-    <option name="LAST_COMMIT_MESSAGE" value="최단 경로 - 다익스트라 알고리즘" />
+    <MESSAGE value="heapq 라이브러리 사용" />
+    <option name="LAST_COMMIT_MESSAGE" value="heapq 라이브러리 사용" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
