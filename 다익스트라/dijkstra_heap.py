@@ -34,7 +34,7 @@ def dijkstra(start):
             new_cost = cost + node[1]
             # 현재 노드를 거쳐 다른 노드로 이동하는 거리가 더 짧은 경우
             if new_cost < dist[node[0]]:
-                dist[i[0]] = new_cost
+                dist[node[0]] = new_cost
                 heapq.heappush(q, (cost, node[0]))
 
 

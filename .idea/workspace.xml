@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="최단 경로 - 다익스트라 알고리즘(우선순위 큐)" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="최단 경로 - 다익스트라 알고리즘">
+      <change afterPath="$PROJECT_DIR$/다익스트라/1753.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +46,7 @@
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmBOJ\다이나믹 프로그래밍" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.HeapLibrary">
+  <component name="RunManager" selected="Python.1753">
     <configuration name="1068" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1446" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1753" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/다이나믹 프로그래밍" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/다익스트라" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다이나믹 프로그래밍/1446.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다익스트라/1753.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1753" />
         <item itemvalue="Python.HeapLibrary" />
         <item itemvalue="Python.2792" />
         <item itemvalue="Python.20159" />
         <item itemvalue="Python.1068" />
-        <item itemvalue="Python.1446" />
       </list>
     </recent_temporary>
   </component>
@@ -167,13 +170,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00143" summary="23.03.01 BOJ 백트래킹 S1 N.16198 에너지 모으기">
-      <created>1677655701195</created>
-      <option name="number" value="00143" />
-      <option name="presentableId" value="LOCAL-00143" />
-      <option name="project" value="LOCAL" />
-      <updated>1677655701195</updated>
     </task>
     <task id="LOCAL-00144" summary="23.03.02 BOJ 그래프 S1 N.5014 스타트링크">
       <created>1677735301002</created>
@@ -511,7 +507,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679751183882</updated>
     </task>
-    <option name="localTasksCounter" value="192" />
+    <task id="LOCAL-00192" summary="최단 경로 - 다익스트라 알고리즘">
+      <created>1679752276948</created>
+      <option name="number" value="00192" />
+      <option name="presentableId" value="LOCAL-00192" />
+      <option name="project" value="LOCAL" />
+      <updated>1679752276948</updated>
+    </task>
+    <option name="localTasksCounter" value="193" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -548,10 +551,10 @@
     <MESSAGE value="23.03.23 BOJ 트리 G5 N.1068 트리" />
     <MESSAGE value="23.03.24 BOJ 누적합 G5 N.20159 동작 그만. 밑장 빼기냐?" />
     <MESSAGE value="23.03.24 BOJ 이분탐색 S1 N.2792 보석 상자" />
-    <MESSAGE value="최단 경로 - 다익스트라 알고리즘" />
     <MESSAGE value="heapq 라이브러리 사용" />
     <MESSAGE value="최단 경로 - 다익스트라 알고리즘(우선순위 큐)" />
-    <option name="LAST_COMMIT_MESSAGE" value="최단 경로 - 다익스트라 알고리즘(우선순위 큐)" />
+    <MESSAGE value="최단 경로 - 다익스트라 알고리즘" />
+    <option name="LAST_COMMIT_MESSAGE" value="최단 경로 - 다익스트라 알고리즘" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
