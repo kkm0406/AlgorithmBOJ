@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.03.31 BOJ 다익스트라 G5 N.17936 백도어">
-      <change afterPath="$PROJECT_DIR$/다이나믹 프로그래밍/9656.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.03.31 BOJ 다이나믹 프로그래밍 S4 N.9656 돌 게임 2">
+      <change beforePath="$PROJECT_DIR$/다이나믹 프로그래밍/9656.py" beforeDir="false" afterPath="$PROJECT_DIR$/다이나믹 프로그래밍/9656.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,13 +169,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00159" summary="23.03.07 BOJ 다이나믹 프로그래밍 S1 N.2502 떡 먹는 호랑이">
-      <created>1678183162290</created>
-      <option name="number" value="00159" />
-      <option name="presentableId" value="LOCAL-00159" />
-      <option name="project" value="LOCAL" />
-      <updated>1678183162290</updated>
     </task>
     <task id="LOCAL-00160" summary="23.03.07 BOJ 이분 탐색 S2 N.16401 과자 나눠주기">
       <created>1678183274560</created>
@@ -514,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680250059658</updated>
     </task>
-    <option name="localTasksCounter" value="208" />
+    <task id="LOCAL-00208" summary="23.03.31 BOJ 다이나믹 프로그래밍 S4 N.9656 돌 게임 2">
+      <created>1680251199806</created>
+      <option name="number" value="00208" />
+      <option name="presentableId" value="LOCAL-00208" />
+      <option name="project" value="LOCAL" />
+      <updated>1680251199806</updated>
+    </task>
+    <option name="localTasksCounter" value="209" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -529,7 +528,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.03.20 BOJ 문자열 G5 N.15927 회문은 회문아니야!!" />
     <MESSAGE value="23.03.21 BOJ 그래프 G4 N.1043 거짓말" />
     <MESSAGE value="23.03.21 BOJ 그리디 G5 N.2212 센서" />
     <MESSAGE value="23.03.22 BOJ 구현 G5 N.20055 컨베이어 벨트 위의 로봇" />
@@ -554,7 +552,8 @@
     <MESSAGE value="23.03.30 BOJ 구현 G5 N.21608 상어 초등학교" />
     <MESSAGE value="23.03.30 BOJ 문자열 S1 N.5376 소수를 분수로" />
     <MESSAGE value="23.03.31 BOJ 다익스트라 G5 N.17936 백도어" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.03.31 BOJ 다익스트라 G5 N.17936 백도어" />
+    <MESSAGE value="23.03.31 BOJ 다이나믹 프로그래밍 S4 N.9656 돌 게임 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.03.31 BOJ 다이나믹 프로그래밍 S4 N.9656 돌 게임 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
