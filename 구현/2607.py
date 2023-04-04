@@ -3,8 +3,8 @@ import sys
 
 input = sys.stdin.readline
 n = int(input())
-s = sorted(input().strip())
-arr = [sorted(input().strip()) for i in range(n - 1)]
+s = list(input().strip())
+arr = [list(input().strip()) for i in range(n - 1)]
 result = 0
 for string in arr:
     cnt = 0
