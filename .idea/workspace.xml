@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.04.05 BOJ 그리디 S2 N.2872 우리집엔 도서관이 있어">
-      <change afterPath="$PROJECT_DIR$/구현/2659.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.04.06 BOJ 구현 S3 N.2659 십자카드 문제">
+      <change afterPath="$PROJECT_DIR$/문자열/4358.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmBOJ\다이나믹 프로그래밍" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2659">
+  <component name="RunManager" selected="Python.4358">
     <configuration name="14284" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,27 +60,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다익스트라/14284.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="16564" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmBOJ" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이분 탐색" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이분 탐색/16564.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,13 +131,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="4358" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmBOJ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문자열" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문자열/4358.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4358" />
         <item itemvalue="Python.2659" />
         <item itemvalue="Python.2872" />
         <item itemvalue="Python.14284" />
         <item itemvalue="Python.2607" />
-        <item itemvalue="Python.16564" />
       </list>
     </recent_temporary>
   </component>
@@ -170,13 +170,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00170" summary="23.03.13 BOJ 다이나믹 프로그래밍 S2 N.1535 안녕">
-      <created>1678634995053</created>
-      <option name="number" value="00170" />
-      <option name="presentableId" value="LOCAL-00170" />
-      <option name="project" value="LOCAL" />
-      <updated>1678634995053</updated>
     </task>
     <task id="LOCAL-00171" summary="23.03.13 BOJ 이분 탐색 G4 N.13397 구간 나누기 2">
       <created>1678703378501</created>
@@ -514,7 +507,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680683538586</updated>
     </task>
-    <option name="localTasksCounter" value="219" />
+    <task id="LOCAL-00219" summary="23.04.06 BOJ 구현 S3 N.2659 십자카드 문제">
+      <created>1680757114080</created>
+      <option name="number" value="00219" />
+      <option name="presentableId" value="LOCAL-00219" />
+      <option name="project" value="LOCAL" />
+      <updated>1680757114081</updated>
+    </task>
+    <option name="localTasksCounter" value="220" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -529,7 +529,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="heapq 라이브러리 사용" />
     <MESSAGE value="최단 경로 - 다익스트라 알고리즘" />
     <MESSAGE value="최단 경로 - 다익스트라 알고리즘(우선순위 큐)" />
     <MESSAGE value="23.03.25 BOJ 다익스트라 G4 N.1753 최단경로" />
@@ -554,7 +553,8 @@
     <MESSAGE value="23.04.04 BOJ 구현 S3 N.2607 비슷한 단어" />
     <MESSAGE value="23.04.05 BOJ 다익스트라 G5 N.14284 간선 이어가기 2" />
     <MESSAGE value="23.04.05 BOJ 그리디 S2 N.2872 우리집엔 도서관이 있어" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.04.05 BOJ 그리디 S2 N.2872 우리집엔 도서관이 있어" />
+    <MESSAGE value="23.04.06 BOJ 구현 S3 N.2659 십자카드 문제" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.04.06 BOJ 구현 S3 N.2659 십자카드 문제" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
