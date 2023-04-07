@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.04.06 BOJ 그래프 G4 N.1922 네트워크 연결">
-      <change afterPath="$PROJECT_DIR$/다이나믹 프로그래밍/2670.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.04.07 BOJ 다이나믹 프로그래밍 S4 N.2670 연속부분최대곱">
+      <change afterPath="$PROJECT_DIR$/그리디/13904.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -170,13 +170,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00173" summary="23.03.14 BOJ 그래프 S1 N.1325 효율적인 해킹">
-      <created>1678764876064</created>
-      <option name="number" value="00173" />
-      <option name="presentableId" value="LOCAL-00173" />
-      <option name="project" value="LOCAL" />
-      <updated>1678764876064</updated>
     </task>
     <task id="LOCAL-00174" summary="23.03.15 BOJ 문자열 S1 N.14426 접두사 찾기">
       <created>1678857932155</created>
@@ -514,7 +507,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680784050841</updated>
     </task>
-    <option name="localTasksCounter" value="222" />
+    <task id="LOCAL-00222" summary="23.04.07 BOJ 다이나믹 프로그래밍 S4 N.2670 연속부분최대곱">
+      <created>1680849144155</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1680849144155</updated>
+    </task>
+    <option name="localTasksCounter" value="223" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -529,7 +529,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.03.25 BOJ 다익스트라 G4 N.1753 최단경로" />
     <MESSAGE value="23.03.25 BOJ 다익스트라 G5 N.1916 최소비용 구하기" />
     <MESSAGE value="23.03.26 BOJ 그리디 G5 N.11000 강의실 배정" />
     <MESSAGE value="23.03.26 BOJ 다익스트라 G5 N.5972 택배 배송" />
@@ -554,7 +553,8 @@
     <MESSAGE value="23.04.06 BOJ 구현 S3 N.2659 십자카드 문제" />
     <MESSAGE value="23.04.06 BOJ 문자열 S2 N.4358 생태학" />
     <MESSAGE value="23.04.06 BOJ 그래프 G4 N.1922 네트워크 연결" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.04.06 BOJ 그래프 G4 N.1922 네트워크 연결" />
+    <MESSAGE value="23.04.07 BOJ 다이나믹 프로그래밍 S4 N.2670 연속부분최대곱" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.04.07 BOJ 다이나믹 프로그래밍 S4 N.2670 연속부분최대곱" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
