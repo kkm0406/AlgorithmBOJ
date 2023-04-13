@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.04.12 BOJ 그래프 G3 N.16236 아기 상어">
-      <change afterPath="$PROJECT_DIR$/다이나믹 프로그래밍/1003.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.04.12 BOJ 다이나믹 프로그래밍 S3 N.1003 피보나치 함수">
+      <change afterPath="$PROJECT_DIR$/그리디/1092.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmBOJ\다이나믹 프로그래밍" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1003">
+  <component name="RunManager" selected="Python.1092">
     <configuration name="1003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,6 +60,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다이나믹 프로그래밍/1003.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1092" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmBOJ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그리디" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그리디/1092.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,27 +131,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4803" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmBOJ" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/트리" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/트리/4803.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="7795" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1092" />
         <item itemvalue="Python.1003" />
         <item itemvalue="Python.16236" />
         <item itemvalue="Python.1189" />
         <item itemvalue="Python.7795" />
-        <item itemvalue="Python.4803" />
       </list>
     </recent_temporary>
   </component>
@@ -170,13 +170,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00184" summary="23.03.22 BOJ 구현 G5 N.20055 컨베이어 벨트 위의 로봇">
-      <created>1679477360420</created>
-      <option name="number" value="00184" />
-      <option name="presentableId" value="LOCAL-00184" />
-      <option name="project" value="LOCAL" />
-      <updated>1679477360422</updated>
     </task>
     <task id="LOCAL-00185" summary="23.03.22 BOJ 다이나믹 프로그래밍 S1 N.1446 지름길">
       <created>1679479636067</created>
@@ -514,7 +507,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681305717506</updated>
     </task>
-    <option name="localTasksCounter" value="233" />
+    <task id="LOCAL-00233" summary="23.04.12 BOJ 다이나믹 프로그래밍 S3 N.1003 피보나치 함수">
+      <created>1681307759479</created>
+      <option name="number" value="00233" />
+      <option name="presentableId" value="LOCAL-00233" />
+      <option name="project" value="LOCAL" />
+      <updated>1681307759479</updated>
+    </task>
+    <option name="localTasksCounter" value="234" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -529,7 +529,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.03.30 BOJ 구현 G5 N.21608 상어 초등학교" />
     <MESSAGE value="23.03.30 BOJ 문자열 S1 N.5376 소수를 분수로" />
     <MESSAGE value="23.03.31 BOJ 다익스트라 G5 N.17936 백도어" />
     <MESSAGE value="23.03.31 BOJ 다이나믹 프로그래밍 S4 N.9656 돌 게임 2" />
@@ -554,7 +553,8 @@
     <MESSAGE value="23.04.11 BOJ 투포인터 S3 N.7795 먹을 것인가 먹힐 것인가" />
     <MESSAGE value="23.04.11 BOJ 백트래킹 S1 N.1189 컴백홈" />
     <MESSAGE value="23.04.12 BOJ 그래프 G3 N.16236 아기 상어" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.04.12 BOJ 그래프 G3 N.16236 아기 상어" />
+    <MESSAGE value="23.04.12 BOJ 다이나믹 프로그래밍 S3 N.1003 피보나치 함수" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.04.12 BOJ 다이나믹 프로그래밍 S3 N.1003 피보나치 함수" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
