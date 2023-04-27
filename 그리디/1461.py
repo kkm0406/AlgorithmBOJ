@@ -24,15 +24,17 @@ minus.sort()
 for i in range(len(minus) // m):
     dist.append(abs(minus[m * i]))
 # if문을 통해 남는 리스트 중 가장 큰 값을 dist에 저장
-if len(minus) % m > 0:
+if len(minus) % m != 0:
     dist.append(abs(minus[(len(minus) // m) * m]))
 
 for i in range(len(plus) // m):
     dist.append(plus[m * i])
-if len(plus) % m > 0:
+if len(plus) % m != 0:
     dist.append(plus[(len(plus) // m) * m])
 
 dist.sort()
+# 가장 거리가 먼 책을 두고 돌아올 필요 없음
+# 나머지는 놓고 돌아와야함
 result = dist.pop()
 result += sum(dist) * 2
 print(result)

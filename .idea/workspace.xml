@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.04.27 BOJ 백트래킹 G5 N.2023 신기한 소수">
-      <change afterPath="$PROJECT_DIR$/그리디/1461.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.04.27 BOJ 그리디 G5 N.1461 도서관">
+      <change beforePath="$PROJECT_DIR$/그리디/1461.py" beforeDir="false" afterPath="$PROJECT_DIR$/그리디/1461.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,13 +169,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00201" summary="23.03.28 BOJ 그리디 G5 N.1374 강의실">
-      <created>1679969610710</created>
-      <option name="number" value="00201" />
-      <option name="presentableId" value="LOCAL-00201" />
-      <option name="project" value="LOCAL" />
-      <updated>1679969610711</updated>
     </task>
     <task id="LOCAL-00202" summary="23.03.28 BOJ 트리 G5 N.15681 트리와 쿼리">
       <created>1679976020599</created>
@@ -514,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682571674315</updated>
     </task>
-    <option name="localTasksCounter" value="250" />
+    <task id="LOCAL-00250" summary="23.04.27 BOJ 그리디 G5 N.1461 도서관">
+      <created>1682599265512</created>
+      <option name="number" value="00250" />
+      <option name="presentableId" value="LOCAL-00250" />
+      <option name="project" value="LOCAL" />
+      <updated>1682599265512</updated>
+    </task>
+    <option name="localTasksCounter" value="251" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -529,7 +528,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.04.08 BOJ 그래프 G4 N.1261 알고스팟" />
     <MESSAGE value="23.04.09 BOJ 다익스트라 G4 N.2665 미로만들기" />
     <MESSAGE value="23.04.09 BOJ 구현 S3 N.2621 카드게임" />
     <MESSAGE value="23.04.10 BOJ 누적합 G3 N.10986 나머지 합" />
@@ -554,7 +552,8 @@
     <MESSAGE value="23.04.26 BOJ 다이나믹 프로그래밍 S1 N.12849 본대 산책" />
     <MESSAGE value="23.04.26 BOJ 구현 G5 N.21610 마법사 상어와 비바라기" />
     <MESSAGE value="23.04.27 BOJ 백트래킹 G5 N.2023 신기한 소수" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.04.27 BOJ 백트래킹 G5 N.2023 신기한 소수" />
+    <MESSAGE value="23.04.27 BOJ 그리디 G5 N.1461 도서관" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.04.27 BOJ 그리디 G5 N.1461 도서관" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
