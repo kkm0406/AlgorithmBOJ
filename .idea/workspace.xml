@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.05.15 BOJ 구현 B2 N.1977 완전제곱수">
-      <change afterPath="$PROJECT_DIR$/문자열/1254.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.05.16 BOJ 문자열 S2 N.1254 팰린드롬 만들기">
+      <change afterPath="$PROJECT_DIR$/구현/15671.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmBOJ\다이나믹 프로그래밍" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1254">
+  <component name="RunManager" selected="Python.15671">
     <configuration name="10807" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,6 +90,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="15671" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmBOJ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/구현" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/구현/15671.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1977" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,27 +124,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/브루트 포스/1977.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2110" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmBOJ" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이분 탐색" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이분 탐색/2110.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.15671" />
         <item itemvalue="Python.1254" />
         <item itemvalue="Python.1977" />
         <item itemvalue="Python.10807" />
         <item itemvalue="Python.9093" />
-        <item itemvalue="Python.2110" />
       </list>
     </recent_temporary>
   </component>
@@ -171,13 +171,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00227" summary="23.04.09 BOJ 구현 S3 N.2621 카드게임">
-      <created>1681041852838</created>
-      <option name="number" value="00227" />
-      <option name="presentableId" value="LOCAL-00227" />
-      <option name="project" value="LOCAL" />
-      <updated>1681041852838</updated>
     </task>
     <task id="LOCAL-00228" summary="23.04.10 BOJ 누적합 G3 N.10986 나머지 합">
       <created>1681103205546</created>
@@ -515,7 +508,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684078832431</updated>
     </task>
-    <option name="localTasksCounter" value="276" />
+    <task id="LOCAL-00276" summary="23.05.16 BOJ 문자열 S2 N.1254 팰린드롬 만들기">
+      <created>1684242767742</created>
+      <option name="number" value="00276" />
+      <option name="presentableId" value="LOCAL-00276" />
+      <option name="project" value="LOCAL" />
+      <updated>1684242767742</updated>
+    </task>
+    <option name="localTasksCounter" value="277" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -530,7 +530,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.04.27 BOJ 그리디 G5 N.1461 도서관" />
     <MESSAGE value="23.04.28 BOJ 다익스트라 G4 N.1504 특정한 최단 경로" />
     <MESSAGE value="23.04.28 BOJ 구현 S2 N.19583 싸이버개강총회" />
     <MESSAGE value="23.04.30 BOJ 우선순위 큐 S2 N.2075 N번째 큰 수" />
@@ -555,7 +554,8 @@
     <MESSAGE value="23.05.13 BOJ 문자열 B5 N.9093 단어 뒤집기" />
     <MESSAGE value="23.05.14 BOJ 구현 B5 N.10807 개수 세기" />
     <MESSAGE value="23.05.15 BOJ 구현 B2 N.1977 완전제곱수" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.05.15 BOJ 구현 B2 N.1977 완전제곱수" />
+    <MESSAGE value="23.05.16 BOJ 문자열 S2 N.1254 팰린드롬 만들기" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.05.16 BOJ 문자열 S2 N.1254 팰린드롬 만들기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
