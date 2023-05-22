@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.05.21 BOJ 우선순위 큐 S2 N.23757 아이들과 선물 상자">
-      <change afterPath="$PROJECT_DIR$/구현/3190.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.05.22 BOJ 구현 G4 N.3190 뱀">
+      <change afterPath="$PROJECT_DIR$/그래프/3184.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,28 +47,7 @@
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmBOJ\다이나믹 프로그래밍" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3190">
-    <configuration name="15989" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmBOJ" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/다이나믹 프로그래밍" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다이나믹 프로그래밍/15989.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.3184">
     <configuration name="23757" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,6 +61,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/우선순위 큐/23757.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3184" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmBOJ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그래프" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그래프/3184.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3184" />
         <item itemvalue="Python.3190" />
         <item itemvalue="Python.HeapLibrary" />
         <item itemvalue="Python.23757" />
         <item itemvalue="Python.3980" />
-        <item itemvalue="Python.15989" />
       </list>
     </recent_temporary>
   </component>
@@ -171,13 +171,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00240" summary="23.04.20 BOJ 구현 G4 N.15683 감시">
-      <created>1681969336883</created>
-      <option name="number" value="00240" />
-      <option name="presentableId" value="LOCAL-00240" />
-      <option name="project" value="LOCAL" />
-      <updated>1681969336885</updated>
     </task>
     <task id="LOCAL-00241" summary="23.04.21 BOJ 그래프 G4 N.1987 알파벳">
       <created>1682077969208</created>
@@ -515,7 +508,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684660727082</updated>
     </task>
-    <option name="localTasksCounter" value="289" />
+    <task id="LOCAL-00289" summary="23.05.22 BOJ 구현 G4 N.3190 뱀">
+      <created>1684765518556</created>
+      <option name="number" value="00289" />
+      <option name="presentableId" value="LOCAL-00289" />
+      <option name="project" value="LOCAL" />
+      <updated>1684765518556</updated>
+    </task>
+    <option name="localTasksCounter" value="290" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -530,7 +530,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.05.05 BOJ 브루트 포스 G5 N.1722 순열의 순서" />
     <MESSAGE value="23.05.06 BOJ 그래프 G5 N.16928 뱀과 사다리 게임" />
     <MESSAGE value="23.05.06 BOJ 다이나믹 프로그래밍 G5 N.2294 동전 2" />
     <MESSAGE value="23.05.07 BOJ 구현 S1 N.20923 숫자 할리갈리 게임" />
@@ -555,7 +554,8 @@
     <MESSAGE value="23.05.20 BOJ 다이나믹 프로그래밍 S1 N.15989 1, 2, 3 더하기 4" />
     <MESSAGE value="23.05.21 BOJ 브루트 포스 G5 N.3980 선발 명단" />
     <MESSAGE value="23.05.21 BOJ 우선순위 큐 S2 N.23757 아이들과 선물 상자" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.05.21 BOJ 우선순위 큐 S2 N.23757 아이들과 선물 상자" />
+    <MESSAGE value="23.05.22 BOJ 구현 G4 N.3190 뱀" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.05.22 BOJ 구현 G4 N.3190 뱀" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
