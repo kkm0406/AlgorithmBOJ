@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.05.24 BOJ 백트래킹 G4 N.2661 좋은 수열">
-      <change afterPath="$PROJECT_DIR$/백트래킹/15658.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.05.24 BOJ 백트래킹 S2 N.15658 연산자 끼워넣기 (2)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -171,13 +168,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00245" summary="23.04.25 BOJ 구현 S2 N.17829 222-풀링">
-      <created>1682407076369</created>
-      <option name="number" value="00245" />
-      <option name="presentableId" value="LOCAL-00245" />
-      <option name="project" value="LOCAL" />
-      <updated>1682407076370</updated>
     </task>
     <task id="LOCAL-00246" summary="23.04.25 BOJ 이분탐색 G2 N.12015 가장 긴 증가하는 부분 수열 2">
       <created>1682410053988</created>
@@ -515,7 +505,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684904493129</updated>
     </task>
-    <option name="localTasksCounter" value="294" />
+    <task id="LOCAL-00294" summary="23.05.24 BOJ 백트래킹 S2 N.15658 연산자 끼워넣기 (2)">
+      <created>1684907368749</created>
+      <option name="number" value="00294" />
+      <option name="presentableId" value="LOCAL-00294" />
+      <option name="project" value="LOCAL" />
+      <updated>1684907368749</updated>
+    </task>
+    <option name="localTasksCounter" value="295" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -530,7 +527,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.05.08 BOJ 이분 탐색 G2 N.12738 가장 긴 증가하는 부분 수열 2" />
     <MESSAGE value="23.05.09 BOJ 구현 B3 N.10817 세 수" />
     <MESSAGE value="23.05.09 BOJ 그리디 G4 N.1715 카드 정렬하기" />
     <MESSAGE value="23.05.11 BOJ 그래프 G4 N.1707 이분 그래프" />
@@ -555,7 +551,8 @@
     <MESSAGE value="23.05.23 BOJ 플로이드 워셜 G4 N.11404 플로이드" />
     <MESSAGE value="23.05.23 BOJ 다익스트라 G4 N.14938 서강그라운드" />
     <MESSAGE value="23.05.24 BOJ 백트래킹 G4 N.2661 좋은 수열" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.05.24 BOJ 백트래킹 G4 N.2661 좋은 수열" />
+    <MESSAGE value="23.05.24 BOJ 백트래킹 S2 N.15658 연산자 끼워넣기 (2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.05.24 BOJ 백트래킹 S2 N.15658 연산자 끼워넣기 (2)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

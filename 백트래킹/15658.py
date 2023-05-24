@@ -25,7 +25,7 @@ def dfs(depth):
             elif mark == '*':
                 tmp *= a[i]
             else:
-                # -5//2 = 3이 나와서
+                # -5//2 = -3이 나와서
                 # 먼저 양수로 처리한 다음 계산한 값에 -1을 곱함
                 if tmp < 0:
                     rmp = -1 * tmp // a[i]
