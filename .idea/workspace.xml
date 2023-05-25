@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.05.24 BOJ 백트래킹 S2 N.15658 연산자 끼워넣기 (2)">
-      <change afterPath="$PROJECT_DIR$/플로이드 워셜/2660.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.05.24 BOJ 플로이드 워셜 G5 N.2660 회장뽑기">
+      <change afterPath="$PROJECT_DIR$/우선순위 큐/1766.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,28 +47,7 @@
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmBOJ\다이나믹 프로그래밍" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2660">
-    <configuration name="11404" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmBOJ" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/플로이드 워셜" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/플로이드 워셜/11404.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.1766">
     <configuration name="14938" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,6 +82,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백트래킹/15658.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1766" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmBOJ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/우선순위 큐" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/우선순위 큐/1766.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1766" />
         <item itemvalue="Python.2660" />
         <item itemvalue="Python.15658" />
         <item itemvalue="Python.2661" />
         <item itemvalue="Python.14938" />
-        <item itemvalue="Python.11404" />
       </list>
     </recent_temporary>
   </component>
@@ -171,13 +171,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00247" summary="23.04.26 BOJ 다이나믹 프로그래밍 S1 N.12849 본대 산책">
-      <created>1682499646871</created>
-      <option name="number" value="00247" />
-      <option name="presentableId" value="LOCAL-00247" />
-      <option name="project" value="LOCAL" />
-      <updated>1682499646871</updated>
     </task>
     <task id="LOCAL-00248" summary="23.04.26 BOJ 구현 G5 N.21610 마법사 상어와 비바라기">
       <created>1682502813970</created>
@@ -515,7 +508,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684908129439</updated>
     </task>
-    <option name="localTasksCounter" value="296" />
+    <task id="LOCAL-00296" summary="23.05.24 BOJ 플로이드 워셜 G5 N.2660 회장뽑기">
+      <created>1684935165518</created>
+      <option name="number" value="00296" />
+      <option name="presentableId" value="LOCAL-00296" />
+      <option name="project" value="LOCAL" />
+      <updated>1684935165518</updated>
+    </task>
+    <option name="localTasksCounter" value="297" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -530,7 +530,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.05.09 BOJ 구현 B3 N.10817 세 수" />
     <MESSAGE value="23.05.09 BOJ 그리디 G4 N.1715 카드 정렬하기" />
     <MESSAGE value="23.05.11 BOJ 그래프 G4 N.1707 이분 그래프" />
     <MESSAGE value="23.05.12 BOJ 이분 탐색 G4 N.2110 공유기 설치" />
@@ -555,7 +554,8 @@
     <MESSAGE value="23.05.23 BOJ 다익스트라 G4 N.14938 서강그라운드" />
     <MESSAGE value="23.05.24 BOJ 백트래킹 G4 N.2661 좋은 수열" />
     <MESSAGE value="23.05.24 BOJ 백트래킹 S2 N.15658 연산자 끼워넣기 (2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.05.24 BOJ 백트래킹 S2 N.15658 연산자 끼워넣기 (2)" />
+    <MESSAGE value="23.05.24 BOJ 플로이드 워셜 G5 N.2660 회장뽑기" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.05.24 BOJ 플로이드 워셜 G5 N.2660 회장뽑기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
