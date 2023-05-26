@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.05.25 BOJ 우선순위 큐 G2 N.1766 문제집">
-      <change afterPath="$PROJECT_DIR$/구현/2573.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.05.26 BOJ 빙산 G4 N.2573 빙산">
+      <change afterPath="$PROJECT_DIR$/다익스트라/10282.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,28 @@
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmBOJ\다이나믹 프로그래밍" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2573">
+  <component name="RunManager" selected="Python.10282">
+    <configuration name="10282" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmBOJ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/다익스트라" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다익스트라/10282.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="15658" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,34 +153,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2661" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmBOJ" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백트래킹" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백트래킹/2661.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10282" />
         <item itemvalue="Python.2573" />
         <item itemvalue="Python.1766" />
         <item itemvalue="Python.2660" />
         <item itemvalue="Python.15658" />
-        <item itemvalue="Python.2661" />
       </list>
     </recent_temporary>
   </component>
@@ -171,13 +171,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00249" summary="23.04.27 BOJ 백트래킹 G5 N.2023 신기한 소수">
-      <created>1682571674314</created>
-      <option name="number" value="00249" />
-      <option name="presentableId" value="LOCAL-00249" />
-      <option name="project" value="LOCAL" />
-      <updated>1682571674315</updated>
     </task>
     <task id="LOCAL-00250" summary="23.04.27 BOJ 그리디 G5 N.1461 도서관">
       <created>1682599265512</created>
@@ -515,7 +508,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685019752077</updated>
     </task>
-    <option name="localTasksCounter" value="298" />
+    <task id="LOCAL-00298" summary="23.05.26 BOJ 빙산 G4 N.2573 빙산">
+      <created>1685099232798</created>
+      <option name="number" value="00298" />
+      <option name="presentableId" value="LOCAL-00298" />
+      <option name="project" value="LOCAL" />
+      <updated>1685099232798</updated>
+    </task>
+    <option name="localTasksCounter" value="299" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -530,7 +530,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.05.11 BOJ 그래프 G4 N.1707 이분 그래프" />
     <MESSAGE value="23.05.12 BOJ 이분 탐색 G4 N.2110 공유기 설치" />
     <MESSAGE value="23.05.13 BOJ 문자열 B5 N.9093 단어 뒤집기" />
     <MESSAGE value="23.05.14 BOJ 구현 B5 N.10807 개수 세기" />
@@ -555,7 +554,8 @@
     <MESSAGE value="23.05.24 BOJ 백트래킹 S2 N.15658 연산자 끼워넣기 (2)" />
     <MESSAGE value="23.05.24 BOJ 플로이드 워셜 G5 N.2660 회장뽑기" />
     <MESSAGE value="23.05.25 BOJ 우선순위 큐 G2 N.1766 문제집" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.05.25 BOJ 우선순위 큐 G2 N.1766 문제집" />
+    <MESSAGE value="23.05.26 BOJ 빙산 G4 N.2573 빙산" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.05.26 BOJ 빙산 G4 N.2573 빙산" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
