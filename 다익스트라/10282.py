@@ -17,13 +17,11 @@ def dijkstra(start):
         dist, now = heapq.heappop(q)
         if distance[now] < dist:
             continue
-
         for node in arr[now]:
             cost = dist + node[1]
             if cost < distance[node[0]]:
                 distance[node[0]] = cost
                 heapq.heappush(q, (cost, node[0]))
-
     return distance
 
 
