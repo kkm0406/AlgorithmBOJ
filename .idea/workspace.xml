@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.05.26 BOJ 해킹 G4 N.10282 해킹">
-      <change afterPath="$PROJECT_DIR$/다익스트라/11779.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.05.26 BOJ 다익스트라 G4 N.10282 해킹">
+      <change afterPath="$PROJECT_DIR$/그래프/2252.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmBOJ\다이나믹 프로그래밍" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.11779">
+  <component name="RunManager" selected="Python.2252">
     <configuration name="10282" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,6 +111,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="2252" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmBOJ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/그래프" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/그래프/2252.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="2573" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,34 +153,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2660" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmBOJ" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/플로이드 워셜" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/플로이드 워셜/2660.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2252" />
         <item itemvalue="Python.11779" />
         <item itemvalue="Python.10282" />
         <item itemvalue="Python.2573" />
         <item itemvalue="Python.1766" />
-        <item itemvalue="Python.2660" />
       </list>
     </recent_temporary>
   </component>
@@ -171,20 +171,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00251" summary="23.04.27 BOJ 그리디 G5 N.1461 도서관">
-      <created>1682599392168</created>
-      <option name="number" value="00251" />
-      <option name="presentableId" value="LOCAL-00251" />
-      <option name="project" value="LOCAL" />
-      <updated>1682599392168</updated>
-    </task>
-    <task id="LOCAL-00252" summary="23.04.28 BOJ 다익스트라 G4 N.1504 특정한 최단 경로">
-      <created>1682667744979</created>
-      <option name="number" value="00252" />
-      <option name="presentableId" value="LOCAL-00252" />
-      <option name="project" value="LOCAL" />
-      <updated>1682667744979</updated>
     </task>
     <task id="LOCAL-00253" summary="23.04.28 BOJ 구현 S2 N.19583 싸이버개강총회">
       <created>1682668864249</created>
@@ -515,7 +501,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685100476287</updated>
     </task>
-    <option name="localTasksCounter" value="300" />
+    <task id="LOCAL-00300" summary="23.05.27 BOJ 다익스트라 G3 N.11779 최소비용 구하기 2">
+      <created>1685189753048</created>
+      <option name="number" value="00300" />
+      <option name="presentableId" value="LOCAL-00300" />
+      <option name="project" value="LOCAL" />
+      <updated>1685189753049</updated>
+    </task>
+    <task id="LOCAL-00301" summary="23.05.26 BOJ 다익스트라 G4 N.10282 해킹">
+      <created>1685189829898</created>
+      <option name="number" value="00301" />
+      <option name="presentableId" value="LOCAL-00301" />
+      <option name="project" value="LOCAL" />
+      <updated>1685189829898</updated>
+    </task>
+    <option name="localTasksCounter" value="302" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -530,8 +530,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.05.13 BOJ 문자열 B5 N.9093 단어 뒤집기" />
-    <MESSAGE value="23.05.14 BOJ 구현 B5 N.10807 개수 세기" />
     <MESSAGE value="23.05.15 BOJ 구현 B2 N.1977 완전제곱수" />
     <MESSAGE value="23.05.16 BOJ 문자열 S2 N.1254 팰린드롬 만들기" />
     <MESSAGE value="23.05.17 BOJ 구현 S1 N.15671 오델로" />
@@ -555,7 +553,9 @@
     <MESSAGE value="23.05.25 BOJ 우선순위 큐 G2 N.1766 문제집" />
     <MESSAGE value="23.05.26 BOJ 빙산 G4 N.2573 빙산" />
     <MESSAGE value="23.05.26 BOJ 해킹 G4 N.10282 해킹" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.05.26 BOJ 해킹 G4 N.10282 해킹" />
+    <MESSAGE value="23.05.27 BOJ 다익스트라 G3 N.11779 최소비용 구하기 2" />
+    <MESSAGE value="23.05.26 BOJ 다익스트라 G4 N.10282 해킹" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.05.26 BOJ 다익스트라 G4 N.10282 해킹" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
