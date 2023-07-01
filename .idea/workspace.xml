@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.06.28 BOJ 구현 S3 N.3613 Java vs C++">
-      <change afterPath="$PROJECT_DIR$/그래프/6593.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.06.29 BOJ 그래프 G5 N.6593 상범 빌딩">
+      <change afterPath="$PROJECT_DIR$/정렬/7571.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmBOJ\다이나믹 프로그래밍" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.6593">
+  <component name="RunManager" selected="Python.7571">
     <configuration name="1197" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,27 +82,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/브루트 포스/19942.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2230" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmBOJ" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/정렬" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/정렬/2230.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,13 +132,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="7571" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmBOJ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/정렬" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/정렬/7571.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.7571" />
         <item itemvalue="Python.6593" />
         <item itemvalue="Python.3613" />
         <item itemvalue="Python.19942" />
         <item itemvalue="Python.1197" />
-        <item itemvalue="Python.2230" />
       </list>
     </recent_temporary>
   </component>
@@ -171,13 +171,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00267" summary="23.05.07 BOJ 트리 G5 N.20924 트리의 기둥과 가지">
-      <created>1683443316955</created>
-      <option name="number" value="00267" />
-      <option name="presentableId" value="LOCAL-00267" />
-      <option name="project" value="LOCAL" />
-      <updated>1683443316955</updated>
     </task>
     <task id="LOCAL-00268" summary="23.05.08 BOJ 이분 탐색 G2 N.12738 가장 긴 증가하는 부분 수열 2">
       <created>1683529707005</created>
@@ -515,7 +508,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687938553526</updated>
     </task>
-    <option name="localTasksCounter" value="316" />
+    <task id="LOCAL-00316" summary="23.06.29 BOJ 그래프 G5 N.6593 상범 빌딩">
+      <created>1688025131207</created>
+      <option name="number" value="00316" />
+      <option name="presentableId" value="LOCAL-00316" />
+      <option name="project" value="LOCAL" />
+      <updated>1688025131223</updated>
+    </task>
+    <option name="localTasksCounter" value="317" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -530,7 +530,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.05.23 BOJ 그래프 S1 N.3184 양" />
     <MESSAGE value="23.05.23 BOJ 플로이드 워셜 G4 N.11404 플로이드" />
     <MESSAGE value="23.05.23 BOJ 다익스트라 G4 N.14938 서강그라운드" />
     <MESSAGE value="23.05.24 BOJ 백트래킹 G4 N.2661 좋은 수열" />
@@ -555,7 +554,8 @@
     <MESSAGE value="23.06.15 BOJ 그래프 G4 N.1197 최소 스패닝 트리" />
     <MESSAGE value="23.06.16 BOJ 브루트 포스 G5 N.19942 다이어트" />
     <MESSAGE value="23.06.28 BOJ 구현 S3 N.3613 Java vs C++" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.06.28 BOJ 구현 S3 N.3613 Java vs C++" />
+    <MESSAGE value="23.06.29 BOJ 그래프 G5 N.6593 상범 빌딩" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.06.29 BOJ 그래프 G5 N.6593 상범 빌딩" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
