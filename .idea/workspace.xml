@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="Travis Practice">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,13 +170,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00302" summary="23.05.29 BOJ 그래프 G3 N.2252 줄 세우기">
-      <created>1685369861861</created>
-      <option name="number" value="00302" />
-      <option name="presentableId" value="LOCAL-00302" />
-      <option name="project" value="LOCAL" />
-      <updated>1685369861861</updated>
     </task>
     <task id="LOCAL-00303" summary="23.05.30 BOJ 다이나믹 프로그래밍 G5 N.13398 연속합 2">
       <created>1685373050447</created>
@@ -514,7 +507,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697643718380</updated>
     </task>
-    <option name="localTasksCounter" value="351" />
+    <task id="LOCAL-00351" summary="Travis Practice">
+      <created>1697644220075</created>
+      <option name="number" value="00351" />
+      <option name="presentableId" value="LOCAL-00351" />
+      <option name="project" value="LOCAL" />
+      <updated>1697644220075</updated>
+    </task>
+    <option name="localTasksCounter" value="352" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
