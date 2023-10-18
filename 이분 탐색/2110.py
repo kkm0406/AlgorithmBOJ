@@ -21,4 +21,6 @@ while left <= right:
     elif cnt < c:
         right = mid - 1
 
+
+
 print(result)
