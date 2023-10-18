@@ -1,0 +1,10 @@
+language: python # 언어
+python: # language 에서 지정한 언어의 버전 (지정된 버전별로 가상머신이 별도로 생성되어 테스트를 함)
+- "3.10"
+- "3.8"
+# command to install dependencies
+install: # 어떤 패키지에 대해 의존성이 있다면 requirements.txt 등에 freeze 해두고 그것을 설치하도록 지정
+- pip3 install -r requirements.txt
+# command to run tests
+script: # 테스트코드를 실행시킬 커맨드(스크립트)
+- python -m unittest
