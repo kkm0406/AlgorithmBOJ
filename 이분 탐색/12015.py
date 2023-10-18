@@ -22,7 +22,6 @@ def find_place(i):
             right = mid - 1
     return right
 
-
 # for로 A의 요소를 돌면서(item으로 두자),
 # item이 LIS의 마지막 원소보다 크면 바로 LIS에 넣어주고,
 # 작거나 같으면 findPlace로 item을 넣을 인덱스를 찾고 거기에 넣어준다.
