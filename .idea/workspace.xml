@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="Travis Practice">
-      <change afterPath="$PROJECT_DIR$/정렬/1431.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.11.06 BOJ 정렬 S3 N.1431 시리얼 번호">
+      <change afterPath="$PROJECT_DIR$/스택/1406.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,28 +47,7 @@
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmBOJ\다이나믹 프로그래밍" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1431">
-    <configuration name="10703" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmBOJ" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/구현" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/구현/10703.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.1406">
     <configuration name="12891" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,6 +61,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문자열/12891.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1406" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmBOJ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/스택" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/스택/1406.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1406" />
         <item itemvalue="Python.1431" />
         <item itemvalue="Python.15591" />
         <item itemvalue="Python.12891" />
         <item itemvalue="Python.21921" />
-        <item itemvalue="Python.10703" />
       </list>
     </recent_temporary>
   </component>
@@ -171,13 +171,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00310" summary="23.06.11 BOJ 브루트포스 G5 N.2666 벽장문의 이동">
-      <created>1686462165002</created>
-      <option name="number" value="00310" />
-      <option name="presentableId" value="LOCAL-00310" />
-      <option name="project" value="LOCAL" />
-      <updated>1686462165003</updated>
     </task>
     <task id="LOCAL-00311" summary="23.06.12 BOJ 구현 G4 N.17144 미세먼지 안녕!">
       <created>1686559853772</created>
@@ -515,7 +508,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697644909583</updated>
     </task>
-    <option name="localTasksCounter" value="359" />
+    <task id="LOCAL-00359" summary="23.11.06 BOJ 정렬 S3 N.1431 시리얼 번호">
+      <created>1699260200429</created>
+      <option name="number" value="00359" />
+      <option name="presentableId" value="LOCAL-00359" />
+      <option name="project" value="LOCAL" />
+      <updated>1699260200429</updated>
+    </task>
+    <option name="localTasksCounter" value="360" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -530,7 +530,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.09.01 BOJ 다이나믹 프로그래밍 S3 N.8394 악수" />
     <MESSAGE value="23.09.01 BOJ 다이나믹 프로그래밍 S1 N.4883 삼각 그래프" />
     <MESSAGE value="23.09.05 BOJ 스택 S1 N.2841 외계인의 기타 연주" />
     <MESSAGE value="23.09.05 BOJ 분할 정복 S1 N.1074 Z" />
@@ -555,7 +554,8 @@
     <MESSAGE value="23.09.24 BOJ 문자열 S1 N.12891 DNA 비밀번호" />
     <MESSAGE value="23.09.25 BOJ 그래프 G5 N.15591 MooTube (Silver)" />
     <MESSAGE value="Travis Practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Travis Practice" />
+    <MESSAGE value="23.11.06 BOJ 정렬 S3 N.1431 시리얼 번호" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.11.06 BOJ 정렬 S3 N.1431 시리얼 번호" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
