@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.11.15 BOJ 구현 S4 N.1244 스위치 켜고 끄기">
-      <change afterPath="$PROJECT_DIR$/구현/6986.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.11.15 BOJ 구현 S3 N.6986 절사평균">
+      <change beforePath="$PROJECT_DIR$/구현/6986.py" beforeDir="false" afterPath="$PROJECT_DIR$/구현/6986.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,13 +172,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00320" summary="23.07.24 BOJ 다이나믹 프로그래밍 S4 N.2491 수열">
-      <created>1690204937797</created>
-      <option name="number" value="00320" />
-      <option name="presentableId" value="LOCAL-00320" />
-      <option name="project" value="LOCAL" />
-      <updated>1690204937797</updated>
     </task>
     <task id="LOCAL-00321" summary="23.07.25 BOJ 구현 S4 N.2960 에라스토테네스의 체">
       <created>1690266872855</created>
@@ -517,7 +509,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700059358957</updated>
     </task>
-    <option name="localTasksCounter" value="369" />
+    <task id="LOCAL-00369" summary="23.11.15 BOJ 구현 S3 N.6986 절사평균">
+      <created>1700060281871</created>
+      <option name="number" value="00369" />
+      <option name="presentableId" value="LOCAL-00369" />
+      <option name="project" value="LOCAL" />
+      <updated>1700060281871</updated>
+    </task>
+    <option name="localTasksCounter" value="370" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -532,7 +531,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.09.09 BOJ 구현 G5 N.2174 로봇 시뮬레이션" />
     <MESSAGE value="23.09.10 BOJ 문자열 G5 N.2800 괄호 제거" />
     <MESSAGE value="23.09.10 BOJ 누적합 S3 N.11411 합 구하기" />
     <MESSAGE value="23.09.12 BOJ 그래프 G4 N.3055 탈출" />
@@ -557,7 +555,8 @@
     <MESSAGE value="23.11.14 BOJ 그래프 S2 N.2644 촌수계산" />
     <MESSAGE value="23.11.14 BOJ 구현 S3 N.2852 NBA 농구" />
     <MESSAGE value="23.11.15 BOJ 구현 S4 N.1244 스위치 켜고 끄기" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.11.15 BOJ 구현 S4 N.1244 스위치 켜고 끄기" />
+    <MESSAGE value="23.11.15 BOJ 구현 S3 N.6986 절사평균" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.11.15 BOJ 구현 S3 N.6986 절사평균" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
