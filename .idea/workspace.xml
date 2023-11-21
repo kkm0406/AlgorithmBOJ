@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.11.20 BOJ 구현 S3 N.17952 과제는 끝나지 않아!">
-      <change afterPath="$PROJECT_DIR$/이분 탐색/6236.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.11.20 BOJ 이분 탐색 S2 N.6236 용돈 관리">
+      <change afterPath="$PROJECT_DIR$/구현/1347.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +49,7 @@
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmBOJ\다이나믹 프로그래밍" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.6236">
+  <component name="RunManager" selected="Python.1347">
     <configuration name="1244" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,6 +71,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="1347" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmBOJ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/구현" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/구현/1347.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="17952" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,27 +105,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/구현/17952.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2852" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmBOJ" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/구현" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/구현/2852.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1347" />
         <item itemvalue="Python.6236" />
         <item itemvalue="Python.17952" />
         <item itemvalue="Python.6986" />
         <item itemvalue="Python.1244" />
-        <item itemvalue="Python.2852" />
       </list>
     </recent_temporary>
   </component>
@@ -173,13 +173,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00323" summary="23.08.19 BOJ 다익스트라 G4 N.18223 민준이와 마산 그리고 건우">
-      <created>1692442969907</created>
-      <option name="number" value="00323" />
-      <option name="presentableId" value="LOCAL-00323" />
-      <option name="project" value="LOCAL" />
-      <updated>1692442969912</updated>
     </task>
     <task id="LOCAL-00324" summary="23.08.19 BOJ 정렬 S2 N.3758 KCPC">
       <created>1692444695432</created>
@@ -517,7 +510,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700483054192</updated>
     </task>
-    <option name="localTasksCounter" value="372" />
+    <task id="LOCAL-00372" summary="23.11.20 BOJ 이분 탐색 S2 N.6236 용돈 관리">
+      <created>1700486439910</created>
+      <option name="number" value="00372" />
+      <option name="presentableId" value="LOCAL-00372" />
+      <option name="project" value="LOCAL" />
+      <updated>1700486439910</updated>
+    </task>
+    <option name="localTasksCounter" value="373" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -532,7 +532,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.09.10 BOJ 누적합 S3 N.11411 합 구하기" />
     <MESSAGE value="23.09.12 BOJ 그래프 G4 N.3055 탈출" />
     <MESSAGE value="23.09.13 BOJ 다익스트라 S2 N.18352 특정 거리의 도시 찾기" />
     <MESSAGE value="23.09.18 BOJ 구현 G5 N.3107 IPv6" />
@@ -557,7 +556,8 @@
     <MESSAGE value="23.11.15 BOJ 구현 S4 N.1244 스위치 켜고 끄기" />
     <MESSAGE value="23.11.15 BOJ 구현 S3 N.6986 절사평균" />
     <MESSAGE value="23.11.20 BOJ 구현 S3 N.17952 과제는 끝나지 않아!" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.11.20 BOJ 구현 S3 N.17952 과제는 끝나지 않아!" />
+    <MESSAGE value="23.11.20 BOJ 이분 탐색 S2 N.6236 용돈 관리" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.11.20 BOJ 이분 탐색 S2 N.6236 용돈 관리" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
