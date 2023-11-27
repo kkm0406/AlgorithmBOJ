@@ -12,9 +12,9 @@ for _ in range(n):
     arr.append(tmp)
     size += len(tmp)
 
-size = m - size # '_'로 채워야하는 개수
-cnt = len(arr) - 1 # '_'가 들어갈 수 있는 개수
-div, mod = divmod(size, cnt) # '_'*div개 만큼 동일하게  채우면 mod개가 남음
+size = m - size  # '_'로 채워야하는 개수
+cnt = len(arr) - 1  # '_'가 들어갈 수 있는 개수
+div, mod = divmod(size, cnt)  # '_'*div개 만큼 동일하게  채우면 mod개가 남음
 
 # mod개의 '_'가 들어갈 수 있는 조합
 combs = list(combinations([i for i in range(1, n)], mod))
