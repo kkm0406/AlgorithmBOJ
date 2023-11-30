@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.11.27 BOJ 문자열 S1 N.1474 밑 줄">
-      <change afterPath="$PROJECT_DIR$/정렬/11067.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.11.29 BOJ 정렬 G5 N.11067 모노톤길">
+      <change afterPath="$PROJECT_DIR$/브루트 포스/2210.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +49,7 @@
       <recent name="C:\Users\sdjmc\PycharmProjects\AlgorithmBOJ\다이나믹 프로그래밍" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.11067">
+  <component name="RunManager" selected="Python.2210">
     <configuration name="11067" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="20006" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2210" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmBOJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/구현" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/브루트 포스" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/구현/20006.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/브루트 포스/2210.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2210" />
         <item itemvalue="Python.11067" />
         <item itemvalue="Python.1474" />
         <item itemvalue="Python.22233" />
         <item itemvalue="Python.1245" />
-        <item itemvalue="Python.20006" />
       </list>
     </recent_temporary>
   </component>
@@ -173,13 +173,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00333" summary="23.09.06 BOJ 투포인터 S3 N.3273 두 수의 합">
-      <created>1693976593601</created>
-      <option name="number" value="00333" />
-      <option name="presentableId" value="LOCAL-00333" />
-      <option name="project" value="LOCAL" />
-      <updated>1693976593601</updated>
     </task>
     <task id="LOCAL-00334" summary="23.09.07 BOJ 스택 G5 N.6198 옥상 정원 꾸미기">
       <created>1694063396476</created>
@@ -517,7 +510,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701080354881</updated>
     </task>
-    <option name="localTasksCounter" value="382" />
+    <task id="LOCAL-00382" summary="23.11.29 BOJ 정렬 G5 N.11067 모노톤길">
+      <created>1701254063839</created>
+      <option name="number" value="00382" />
+      <option name="presentableId" value="LOCAL-00382" />
+      <option name="project" value="LOCAL" />
+      <updated>1701254063839</updated>
+    </task>
+    <option name="localTasksCounter" value="383" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -532,7 +532,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="23.09.24 BOJ 누적합 S3 N.21921 블로그" />
     <MESSAGE value="23.09.24 BOJ 문자열 S1 N.12891 DNA 비밀번호" />
     <MESSAGE value="23.09.25 BOJ 그래프 G5 N.15591 MooTube (Silver)" />
     <MESSAGE value="Travis Practice" />
@@ -557,7 +556,8 @@
     <MESSAGE value="23.11.24 BOJ 그래프 G5 N.1245 농장 관리" />
     <MESSAGE value="23.11.26 BOJ 문자열 S2 N.22233 가희와 키워드" />
     <MESSAGE value="23.11.27 BOJ 문자열 S1 N.1474 밑 줄" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.11.27 BOJ 문자열 S1 N.1474 밑 줄" />
+    <MESSAGE value="23.11.29 BOJ 정렬 G5 N.11067 모노톤길" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.11.29 BOJ 정렬 G5 N.11067 모노톤길" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
