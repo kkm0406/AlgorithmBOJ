@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.12.01 BOJ 그래프 S2 N.13565 침투">
-      <change afterPath="$PROJECT_DIR$/다이나믹 프로그래밍/10211.py" afterDir="false" />
+    <list default="true" id="5e504489-dd0c-40f7-b13a-444f85ef3584" name="변경" comment="23.12.01 BOJ 다이나믹 프로그래밍 S4 N.10211 Maximum Subarray">
+      <change afterPath="$PROJECT_DIR$/투포인터/20922.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -173,13 +173,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672983290930</updated>
-    </task>
-    <task id="LOCAL-00336" summary="23.09.09 BOJ 구현 G5 N.2174 로봇 시뮬레이션">
-      <created>1694260530374</created>
-      <option name="number" value="00336" />
-      <option name="presentableId" value="LOCAL-00336" />
-      <option name="project" value="LOCAL" />
-      <updated>1694260530374</updated>
     </task>
     <task id="LOCAL-00337" summary="23.09.10 BOJ 문자열 G5 N.2800 괄호 제거">
       <created>1694357215886</created>
@@ -517,7 +510,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701357489940</updated>
     </task>
-    <option name="localTasksCounter" value="385" />
+    <task id="LOCAL-00385" summary="23.12.01 BOJ 다이나믹 프로그래밍 S4 N.10211 Maximum Subarray">
+      <created>1701358856018</created>
+      <option name="number" value="00385" />
+      <option name="presentableId" value="LOCAL-00385" />
+      <option name="project" value="LOCAL" />
+      <updated>1701358856018</updated>
+    </task>
+    <option name="localTasksCounter" value="386" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -532,7 +532,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Travis Practice" />
     <MESSAGE value="23.11.06 BOJ 정렬 S3 N.1431 시리얼 번호" />
     <MESSAGE value="23.11.10 BOJ 스택 S2 N.1406 에디터" />
     <MESSAGE value="23.11.11 BOJ 문자열 S3 N.11478 서로 다른 부분 문자열의 개수" />
@@ -557,7 +556,8 @@
     <MESSAGE value="23.11.29 BOJ 정렬 G5 N.11067 모노톤길" />
     <MESSAGE value="23.11.30 BOJ 브루트 포스 S2 N.2210 숫자판 점프" />
     <MESSAGE value="23.12.01 BOJ 그래프 S2 N.13565 침투" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.12.01 BOJ 그래프 S2 N.13565 침투" />
+    <MESSAGE value="23.12.01 BOJ 다이나믹 프로그래밍 S4 N.10211 Maximum Subarray" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.12.01 BOJ 다이나믹 프로그래밍 S4 N.10211 Maximum Subarray" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
